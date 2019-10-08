@@ -1,0 +1,97 @@
+{
+  "build": "py37h0a44026_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1",
+    "python >=3.7,<3.8.0a0",
+    "unixodbc >=2.3.7,<2.4.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/pyodbc-4.0.27-py37h0a44026_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/METADATA",
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/RECORD",
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pyodbc.cpython-37m-darwin.so"
+  ],
+  "fn": "pyodbc-4.0.27-py37h0a44026_0.conda",
+  "legacy_bz2_md5": "c72afd0146304c0915c7928e730d2a87",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/pyodbc-4.0.27-py37h0a44026_0",
+    "type": 1
+  },
+  "md5": "633e345ea0cd51b28f8c557d7341af14",
+  "name": "pyodbc",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/pyodbc-4.0.27-py37h0a44026_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "sha256_in_prefix": "9859c85770c91b7866b0f769c938e36d64d0260141b529b947b4ead96883eab4",
+        "size_in_bytes": 868
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "aa30000e496ee22cbbd330c2af0c86a99d5bb2564387e265255984b0c47cf71f",
+        "sha256_in_prefix": "aa30000e496ee22cbbd330c2af0c86a99d5bb2564387e265255984b0c47cf71f",
+        "size_in_bytes": 1056
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "43e1512ba5779d44b799fa22749e2fccb77cf7c191beaf1e0d861ccba27eb58a",
+        "sha256_in_prefix": "43e1512ba5779d44b799fa22749e2fccb77cf7c191beaf1e0d861ccba27eb58a",
+        "size_in_bytes": 570
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "29472e29de0d4ba9820fb431e2c4f7e379537280af29079cf34d4c1a9be69033",
+        "sha256_in_prefix": "29472e29de0d4ba9820fb431e2c4f7e379537280af29079cf34d4c1a9be69033",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc-4.0.27.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "df48ef61c0ae97aff0036e8e4f9734ebc1801f3a902e977d59f4349924ac0d35",
+        "sha256_in_prefix": "df48ef61c0ae97aff0036e8e4f9734ebc1801f3a902e977d59f4349924ac0d35",
+        "size_in_bytes": 7
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pyodbc.cpython-37m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/1ead6540-98e6-4976-7a4a-1599950f87f8/volume/pyodbc_1565964663186/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
+        "sha256": "5ffbdf2f107a6164ee6242b617304ff9fa5bade2e86b0cd271e5a8349df6da49",
+        "sha256_in_prefix": "86b2f2a8efe29804f98f1360a4229ffd61b2c1d82dc718e02e449ef3a178e459",
+        "size_in_bytes": 158360
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2adaa24dc1ac45da79a35ab2483470c18305459d17e7f79a852dc0fe29510648",
+  "size": 63548,
+  "subdir": "osx-64",
+  "timestamp": 1565965037394,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pyodbc-4.0.27-py37h0a44026_0.conda",
+  "version": "4.0.27"
+}

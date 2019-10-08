@@ -1,0 +1,100 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "six"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/pathlib2-2.3.5-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/LICENSE.rst",
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/METADATA",
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/RECORD",
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/WHEEL",
+    "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/pathlib2/__init__.py",
+    "lib/python3.7/site-packages/pathlib2/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "pathlib2-2.3.5-py37_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/pathlib2-2.3.5-py37_0",
+    "type": 1
+  },
+  "md5": "e38b41ac77b3ce5137fd52a3816ed715",
+  "name": "pathlib2",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/pathlib2-2.3.5-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/LICENSE.rst",
+        "path_type": "hardlink",
+        "sha256": "f8e02f1a07e4c6fc59a4bee831ddde26b97064105c423b9e24340f35aaa80262",
+        "sha256_in_prefix": "f8e02f1a07e4c6fc59a4bee831ddde26b97064105c423b9e24340f35aaa80262",
+        "size_in_bytes": 1152
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "471ed8d237e02893cc8b4746a1336ade6f7dae1bab5bb4daf78038ae8e928ac9",
+        "sha256_in_prefix": "471ed8d237e02893cc8b4746a1336ade6f7dae1bab5bb4daf78038ae8e928ac9",
+        "size_in_bytes": 3301
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "22c4bce4da1b377f231d02e09cd3788560ca006d507b1b64165040b7840522fd",
+        "sha256_in_prefix": "22c4bce4da1b377f231d02e09cd3788560ca006d507b1b64165040b7840522fd",
+        "size_in_bytes": 616
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2-2.3.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b4d3e48ac16218116c3d49c220783adaf485964c7fd4d3bce8877c95b2667c54",
+        "sha256_in_prefix": "b4d3e48ac16218116c3d49c220783adaf485964c7fd4d3bce8877c95b2667c54",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "3417eee7069ca6cd72d58b655d548f27c15b1385ad217b9cae9e6e39834e3be5",
+        "sha256_in_prefix": "3417eee7069ca6cd72d58b655d548f27c15b1385ad217b9cae9e6e39834e3be5",
+        "size_in_bytes": 59133
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pathlib2/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "30568ce7a801dc87be73636b2ff97bf189f7508a7a500b4a9ed0bb71b3d41f84",
+        "sha256_in_prefix": "30568ce7a801dc87be73636b2ff97bf189f7508a7a500b4a9ed0bb71b3d41f84",
+        "size_in_bytes": 49400
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "f3221f68516ca4c601635348689b3f9e04407e55fef3fc6039f5fc05b594ecd5",
+  "size": 37381,
+  "subdir": "osx-64",
+  "timestamp": 1569855120541,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pathlib2-2.3.5-py37_0.tar.bz2",
+  "version": "2.3.5"
+}

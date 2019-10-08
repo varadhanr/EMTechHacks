@@ -1,0 +1,86 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "backports",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/backports.os-0.1.1-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/top_level.txt",
+    "lib/python3.7/site-packages/backports/__pycache__/os.cpython-37.pyc",
+    "lib/python3.7/site-packages/backports/os.py"
+  ],
+  "fn": "backports.os-0.1.1-py37_0.conda",
+  "legacy_bz2_md5": "0799936861aa6e295fb11e456bbf36bd",
+  "license": "Python Software Foundation",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/backports.os-0.1.1-py37_0",
+    "type": 1
+  },
+  "md5": "8442b4506f4daddd26593fc93b991a16",
+  "name": "backports.os",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/backports.os-0.1.1-py37_0",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "142350c6c9bc71f8be1d88bf038a8b6613b57af67d6d8b13df81dd95f0f617bf",
+        "sha256_in_prefix": "142350c6c9bc71f8be1d88bf038a8b6613b57af67d6d8b13df81dd95f0f617bf",
+        "size_in_bytes": 2626
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "7a1b31299cc5765be5212a8fb0ceb7bbbd8424071d26ed614503938ad93fafab",
+        "sha256_in_prefix": "7a1b31299cc5765be5212a8fb0ceb7bbbd8424071d26ed614503938ad93fafab",
+        "size_in_bytes": 357
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backports.os-0.1.1-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7068da2cc3a8051d452b4029a23b73595995893b49ec91882bf1f05e212cbed5",
+        "sha256_in_prefix": "7068da2cc3a8051d452b4029a23b73595995893b49ec91882bf1f05e212cbed5",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backports/__pycache__/os.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d513ea5f719d07a22f407b091f663c145a8020f6d5670f583517acce047afeda",
+        "sha256_in_prefix": "d513ea5f719d07a22f407b091f663c145a8020f6d5670f583517acce047afeda",
+        "size_in_bytes": 3947
+      },
+      {
+        "_path": "lib/python3.7/site-packages/backports/os.py",
+        "path_type": "hardlink",
+        "sha256": "cb836240e3cff38b04e90fd60d3f1cc9b590ce4d148feb312d00d40142b4232a",
+        "sha256_in_prefix": "cb836240e3cff38b04e90fd60d3f1cc9b590ce4d148feb312d00d40142b4232a",
+        "size_in_bytes": 7939
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "245608d0043dcf33dd813ceb4401a4760549526f32f9fc8d4110fb7b63957d11",
+  "size": 15515,
+  "subdir": "osx-64",
+  "timestamp": 1539703473411,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/backports.os-0.1.1-py37_0.conda",
+  "version": "0.1.1"
+}

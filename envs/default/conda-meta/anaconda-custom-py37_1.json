@@ -1,0 +1,35 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "_anaconda_depends",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/anaconda-custom-py37_1",
+  "features": "",
+  "files": [],
+  "fn": "anaconda-custom-py37_1.conda",
+  "legacy_bz2_md5": "46fed6679490fee26976b261f315a750",
+  "license": "BSD",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/anaconda-custom-py37_1",
+    "type": 1
+  },
+  "md5": "87ee546a5c8054249bd80f818c577a11",
+  "name": "anaconda",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/anaconda-custom-py37_1.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "anaconda",
+  "sha256": "8734a57346274f880826cc4d206fdaaea52ea95c69c07fb03534f43d8d3812da",
+  "size": 3250,
+  "subdir": "osx-64",
+  "timestamp": 1562174756614,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/anaconda-custom-py37_1.conda",
+  "version": "custom"
+}

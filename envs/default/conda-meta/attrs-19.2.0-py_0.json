@@ -1,0 +1,272 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/attrs-19.2.0-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/attr/__init__.py",
+    "lib/python3.7/site-packages/attr/__init__.pyi",
+    "lib/python3.7/site-packages/attr/_compat.py",
+    "lib/python3.7/site-packages/attr/_config.py",
+    "lib/python3.7/site-packages/attr/_funcs.py",
+    "lib/python3.7/site-packages/attr/_make.py",
+    "lib/python3.7/site-packages/attr/_version.py",
+    "lib/python3.7/site-packages/attr/_version.pyi",
+    "lib/python3.7/site-packages/attr/converters.py",
+    "lib/python3.7/site-packages/attr/converters.pyi",
+    "lib/python3.7/site-packages/attr/exceptions.py",
+    "lib/python3.7/site-packages/attr/exceptions.pyi",
+    "lib/python3.7/site-packages/attr/filters.py",
+    "lib/python3.7/site-packages/attr/filters.pyi",
+    "lib/python3.7/site-packages/attr/py.typed",
+    "lib/python3.7/site-packages/attr/validators.py",
+    "lib/python3.7/site-packages/attr/validators.pyi",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/LICENSE",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/attrs-19.2.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/attr/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/_compat.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/_config.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/_funcs.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/_make.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/_version.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/converters.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/exceptions.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/filters.cpython-37.pyc",
+    "lib/python3.7/site-packages/attr/__pycache__/validators.cpython-37.pyc"
+  ],
+  "fn": "attrs-19.2.0-py_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/attrs-19.2.0-py_0",
+    "type": 1
+  },
+  "md5": "e8c0f4a39127bbd6de42338e893af891",
+  "name": "attrs",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/attrs-19.2.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/attr/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9d1bc479c3962da26c32b68e2bcf5fe213184e14d46475a3d41d23976e3d33ed",
+        "sha256_in_prefix": "9d1bc479c3962da26c32b68e2bcf5fe213184e14d46475a3d41d23976e3d33ed",
+        "size_in_bytes": 1344
+      },
+      {
+        "_path": "site-packages/attr/__init__.pyi",
+        "path_type": "hardlink",
+        "sha256": "e4056d104ccafa0dc73b5494965e388532fc2c5a0cf13603ec69fdbc43051b39",
+        "sha256_in_prefix": "e4056d104ccafa0dc73b5494965e388532fc2c5a0cf13603ec69fdbc43051b39",
+        "size_in_bytes": 8252
+      },
+      {
+        "_path": "site-packages/attr/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "fa926d76daa00a0d0aeab1ff0567f7c0ab93ba6e7c183f9658f725410d9251a5",
+        "sha256_in_prefix": "fa926d76daa00a0d0aeab1ff0567f7c0ab93ba6e7c183f9658f725410d9251a5",
+        "size_in_bytes": 7326
+      },
+      {
+        "_path": "site-packages/attr/_config.py",
+        "path_type": "hardlink",
+        "sha256": "fcabd6d2641d1f63d88c773461f214695fe8da955f33bce2304613c7098484e0",
+        "sha256_in_prefix": "fcabd6d2641d1f63d88c773461f214695fe8da955f33bce2304613c7098484e0",
+        "size_in_bytes": 514
+      },
+      {
+        "_path": "site-packages/attr/_funcs.py",
+        "path_type": "hardlink",
+        "sha256": "ba70097cd1924cecf1c85ce48fb46cdced5b7ec4287665f28abf6e64a7a7faf6",
+        "sha256_in_prefix": "ba70097cd1924cecf1c85ce48fb46cdced5b7ec4287665f28abf6e64a7a7faf6",
+        "size_in_bytes": 9696
+      },
+      {
+        "_path": "site-packages/attr/_make.py",
+        "path_type": "hardlink",
+        "sha256": "e29753bacf1de0e922b73970cad4cf3fb4cd2d92baa552282a0e8a74064cc184",
+        "sha256_in_prefix": "e29753bacf1de0e922b73970cad4cf3fb4cd2d92baa552282a0e8a74064cc184",
+        "size_in_bytes": 70804
+      },
+      {
+        "_path": "site-packages/attr/_version.py",
+        "path_type": "hardlink",
+        "sha256": "6b3322d6535e95bddc26fbd850c5ec5d56d400d911cdb0f920489a5d5a5e56be",
+        "sha256_in_prefix": "6b3322d6535e95bddc26fbd850c5ec5d56d400d911cdb0f920489a5d5a5e56be",
+        "size_in_bytes": 2162
+      },
+      {
+        "_path": "site-packages/attr/_version.pyi",
+        "path_type": "hardlink",
+        "sha256": "c7f3372f75ae07baff50b5c05a3c7de7db9d290e072c1f25fa1b1cd450c636f9",
+        "sha256_in_prefix": "c7f3372f75ae07baff50b5c05a3c7de7db9d290e072c1f25fa1b1cd450c636f9",
+        "size_in_bytes": 209
+      },
+      {
+        "_path": "site-packages/attr/converters.py",
+        "path_type": "hardlink",
+        "sha256": "e502516125c4f06ecf5b4dbcf72fd23f0bef648730fa7248b8195f615741e014",
+        "sha256_in_prefix": "e502516125c4f06ecf5b4dbcf72fd23f0bef648730fa7248b8195f615741e014",
+        "size_in_bytes": 2141
+      },
+      {
+        "_path": "site-packages/attr/converters.pyi",
+        "path_type": "hardlink",
+        "sha256": "c00842a0e4f530557cb77db7ae90fceceedbc50f0260b4cf88141dfb6f4189e2",
+        "sha256_in_prefix": "c00842a0e4f530557cb77db7ae90fceceedbc50f0260b4cf88141dfb6f4189e2",
+        "size_in_bytes": 351
+      },
+      {
+        "_path": "site-packages/attr/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "85b84e6b76f85bcfe646b6e3dc5b0c4d1e01b79c736c9b39c5a1535a7f2cea1e",
+        "sha256_in_prefix": "85b84e6b76f85bcfe646b6e3dc5b0c4d1e01b79c736c9b39c5a1535a7f2cea1e",
+        "size_in_bytes": 1635
+      },
+      {
+        "_path": "site-packages/attr/exceptions.pyi",
+        "path_type": "hardlink",
+        "sha256": "e33b9a2729766b1c566ea9d9831a3fda84e93cd6f2a30130dc0e21a95e4f9807",
+        "sha256_in_prefix": "e33b9a2729766b1c566ea9d9831a3fda84e93cd6f2a30130dc0e21a95e4f9807",
+        "size_in_bytes": 458
+      },
+      {
+        "_path": "site-packages/attr/filters.py",
+        "path_type": "hardlink",
+        "sha256": "c1e0f1c004ec6baf53ff46cf56388cd5f1ac72200c426c216391bc266e41c6e2",
+        "sha256_in_prefix": "c1e0f1c004ec6baf53ff46cf56388cd5f1ac72200c426c216391bc266e41c6e2",
+        "size_in_bytes": 1098
+      },
+      {
+        "_path": "site-packages/attr/filters.pyi",
+        "path_type": "hardlink",
+        "sha256": "c43a6629094576cb20c466b9b6c97500387fdf3c00c004f8bd485df21fbcf939",
+        "sha256_in_prefix": "c43a6629094576cb20c466b9b6c97500387fdf3c00c004f8bd485df21fbcf939",
+        "size_in_bytes": 214
+      },
+      {
+        "_path": "site-packages/attr/py.typed",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/attr/validators.py",
+        "path_type": "hardlink",
+        "sha256": "f00b3181d0e0877b063ec7a250830f19c4ebe8fbda0d87c7dc02b8eadb2fb3c5",
+        "sha256_in_prefix": "f00b3181d0e0877b063ec7a250830f19c4ebe8fbda0d87c7dc02b8eadb2fb3c5",
+        "size_in_bytes": 11460
+      },
+      {
+        "_path": "site-packages/attr/validators.pyi",
+        "path_type": "hardlink",
+        "sha256": "bd982c26a530ac97af878bff1ddeff4525ea0eb05cb44ebedc0119eee60aa1da",
+        "sha256_in_prefix": "bd982c26a530ac97af878bff1ddeff4525ea0eb05cb44ebedc0119eee60aa1da",
+        "size_in_bytes": 1868
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "bf659a28b49240602f56bbdf490cbe2ec509b15b98f99d7b19a52c740e327863",
+        "sha256_in_prefix": "bf659a28b49240602f56bbdf490cbe2ec509b15b98f99d7b19a52c740e327863",
+        "size_in_bytes": 1082
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "5d1e9e98f24ff699facd51700675a1896fcbebbf7006aa110b49102f69d33afb",
+        "sha256_in_prefix": "5d1e9e98f24ff699facd51700675a1896fcbebbf7006aa110b49102f69d33afb",
+        "size_in_bytes": 12750
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "7719bc432f1c7cf05692b7fe328b4c6b14daddc3fa682f7829ff219f248546d9",
+        "sha256_in_prefix": "7719bc432f1c7cf05692b7fe328b4c6b14daddc3fa682f7829ff219f248546d9",
+        "size_in_bytes": 1940
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/attrs-19.2.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "b6545831d76446528fa89f7ac0fdbf8fdb84b2670d1e00f649bb967780b31955",
+        "sha256_in_prefix": "b6545831d76446528fa89f7ac0fdbf8fdb84b2670d1e00f649bb967780b31955",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/_compat.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/_config.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/_funcs.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/_make.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/_version.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/converters.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/exceptions.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/filters.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/attr/__pycache__/validators.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "70b3855a50bb9c0ab5c96042843bd75d2e6ba54b31080dbb2a245bdad16befaa",
+  "size": 40308,
+  "subdir": "noarch",
+  "timestamp": 1570464089464,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/attrs-19.2.0-py_0.tar.bz2",
+  "version": "19.2.0"
+}

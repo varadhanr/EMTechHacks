@@ -1,0 +1,57 @@
+{
+  "build": "py37h6ef4df4_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "gmp >=6.1.2",
+    "mpc",
+    "mpfr >=4.0.1,<5.0a0",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/gmpy2-2.0.8-py37h6ef4df4_2",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/gmpy2-2.0.8-py3.7.egg-info",
+    "lib/python3.7/site-packages/gmpy2.cpython-37m-darwin.so"
+  ],
+  "fn": "gmpy2-2.0.8-py37h6ef4df4_2.conda",
+  "legacy_bz2_md5": "49b2e8bee7735b66654d9985e2c61956",
+  "license": "LGPL 3",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/gmpy2-2.0.8-py37h6ef4df4_2",
+    "type": 1
+  },
+  "md5": "9229c679d796c84e71e00d4f536c200e",
+  "name": "gmpy2",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/gmpy2-2.0.8-py37h6ef4df4_2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/gmpy2-2.0.8-py3.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "16ea1710a2c9f865e8cef40ca007b2fbd1380230d9529adedb234cf4a5aa8026",
+        "sha256_in_prefix": "16ea1710a2c9f865e8cef40ca007b2fbd1380230d9529adedb234cf4a5aa8026",
+        "size_in_bytes": 1018
+      },
+      {
+        "_path": "lib/python3.7/site-packages/gmpy2.cpython-37m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/conda/conda-bld/gmpy2_1530877514048/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeho",
+        "sha256": "9ee2d2a24d84bbeea2056b5298a47ab9a390b0e7d11a5e623a3d67dc3dce42a4",
+        "sha256_in_prefix": "b158b87e11df15e25b903f4042cc0d18cfeefcb2817432e62f9db9ef695c0a70",
+        "size_in_bytes": 489760
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "8be59f24258aa46a99eb71f25bb1c839318a807da7bdf8820c44ff7434f0063b",
+  "size": 146916,
+  "subdir": "osx-64",
+  "timestamp": 1530877648337,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/gmpy2-2.0.8-py37h6ef4df4_2.conda",
+  "version": "2.0.8"
+}

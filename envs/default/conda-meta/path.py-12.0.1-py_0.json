@@ -1,0 +1,113 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "backports.os",
+    "importlib_metadata >=0.5",
+    "python >=3.5"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/path.py-12.0.1-py_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/LICENSE",
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/METADATA",
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/RECORD",
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/WHEEL",
+    "lib/python3.7/site-packages/path.py-12.0.1.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/path/__init__.py",
+    "lib/python3.7/site-packages/path/matchers.py",
+    "lib/python3.7/site-packages/path/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/path/__pycache__/matchers.cpython-37.pyc"
+  ],
+  "fn": "path.py-12.0.1-py_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/path.py-12.0.1-py_0",
+    "type": 1
+  },
+  "md5": "5734907da272b789b7b2ba9d6f19d94d",
+  "name": "path.py",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/path.py-12.0.1-py_0",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+        "sha256_in_prefix": "a55e2ffe9b44998e621d51d8c094bed09acc4b5236ee73d7df395a33ba3c18fd",
+        "size_in_bytes": 1050
+      },
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4b2d8a804726b41e69ce3f5bcb8d05c0b90d8583873c1fcfd6dc77ca68ceb8dc",
+        "sha256_in_prefix": "4b2d8a804726b41e69ce3f5bcb8d05c0b90d8583873c1fcfd6dc77ca68ceb8dc",
+        "size_in_bytes": 5799
+      },
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "d9af0e698a697b1a7abf4215d6cb82d4518fbedb2a2d386bbb3eb150069eca51",
+        "sha256_in_prefix": "d9af0e698a697b1a7abf4215d6cb82d4518fbedb2a2d386bbb3eb150069eca51",
+        "size_in_bytes": 721
+      },
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "53cf04846230f128f6fe986a6a37aefc4022dd1028f3e0bacd5dd112c59b59bb",
+        "sha256_in_prefix": "53cf04846230f128f6fe986a6a37aefc4022dd1028f3e0bacd5dd112c59b59bb",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/path.py-12.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d8a68357f40705851032b610c2e1e753596c9370b7b2f459ae2d26c399475e2d",
+        "sha256_in_prefix": "d8a68357f40705851032b610c2e1e753596c9370b7b2f459ae2d26c399475e2d",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/path/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9346ac74a0760e1a3f838539b0f9a01c618fbc2fcd81627c82050b2b68fbd59d",
+        "sha256_in_prefix": "9346ac74a0760e1a3f838539b0f9a01c618fbc2fcd81627c82050b2b68fbd59d",
+        "size_in_bytes": 53095
+      },
+      {
+        "_path": "site-packages/path/matchers.py",
+        "path_type": "hardlink",
+        "sha256": "253e8e9704a7e6dcfcc5d301d8c25c28b376f83e0bd9db98387a3b57ae4faf1f",
+        "sha256_in_prefix": "253e8e9704a7e6dcfcc5d301d8c25c28b376f83e0bd9db98387a3b57ae4faf1f",
+        "size_in_bytes": 1426
+      },
+      {
+        "_path": "lib/python3.7/site-packages/path/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/path/__pycache__/matchers.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "aeed1bb474831e5d6832cb0db0146a5f4de79c326026e833efff4379174b311d",
+  "size": 23338,
+  "subdir": "noarch",
+  "timestamp": 1555430130944,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/path.py-12.0.1-py_0.tar.bz2",
+  "version": "12.0.1"
+}

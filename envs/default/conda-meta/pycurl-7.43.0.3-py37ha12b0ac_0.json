@@ -1,0 +1,71 @@
+{
+  "build": "py37ha12b0ac_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcurl >=7.64.1,<8.0a0",
+    "openssl >=1.1.1c,<1.1.2a",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/pycurl-7.43.0.3-py37ha12b0ac_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/curl/__init__.py",
+    "lib/python3.7/site-packages/curl/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/pycurl-7.43.0.3-py3.7.egg-info",
+    "lib/python3.7/site-packages/pycurl.cpython-37m-darwin.so"
+  ],
+  "fn": "pycurl-7.43.0.3-py37ha12b0ac_0.conda",
+  "legacy_bz2_md5": "139122442a918cb5df0c0aae09051104",
+  "license": "LGPL, MIT",
+  "license_family": "LGPL",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/pycurl-7.43.0.3-py37ha12b0ac_0",
+    "type": 1
+  },
+  "md5": "92e8b43336f1cc87ed6faee3520dbb8c",
+  "name": "pycurl",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/pycurl-7.43.0.3-py37ha12b0ac_0",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/curl/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9766d278e7e71b16dc14dce242adf864a8f501aae03cbe0b89a3c8cd9ae9d260",
+        "sha256_in_prefix": "9766d278e7e71b16dc14dce242adf864a8f501aae03cbe0b89a3c8cd9ae9d260",
+        "size_in_bytes": 7203
+      },
+      {
+        "_path": "lib/python3.7/site-packages/curl/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac54665a9f718a2e06c5278cfe31fab0db44384371e3bdc74b26a7f7fc11da14",
+        "sha256_in_prefix": "ac54665a9f718a2e06c5278cfe31fab0db44384371e3bdc74b26a7f7fc11da14",
+        "size_in_bytes": 6412
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycurl-7.43.0.3-py3.7.egg-info",
+        "path_type": "hardlink",
+        "sha256": "6c58293436dbfe28369b44e45e4b6c23db5e65ebb613c2ee42780ed5159909be",
+        "sha256_in_prefix": "6c58293436dbfe28369b44e45e4b6c23db5e65ebb613c2ee42780ed5159909be",
+        "size_in_bytes": 4738
+      },
+      {
+        "_path": "lib/python3.7/site-packages/pycurl.cpython-37m-darwin.so",
+        "path_type": "hardlink",
+        "sha256": "eadf2dd1f25512a72a68f78f1d934a5bc0ee1f7e68ffe525ae9ae6f125a010cf",
+        "sha256_in_prefix": "eadf2dd1f25512a72a68f78f1d934a5bc0ee1f7e68ffe525ae9ae6f125a010cf",
+        "size_in_bytes": 148716
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bf229f803b72aed0934fc4b1eeaf8a25cf9983bf5927ef4f16b08aa462be80a4",
+  "size": 66245,
+  "subdir": "osx-64",
+  "timestamp": 1562091543815,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pycurl-7.43.0.3-py37ha12b0ac_0.conda",
+  "version": "7.43.0.3"
+}

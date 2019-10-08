@@ -1,0 +1,52 @@
+{
+  "build": "py37_1",
+  "build_number": 1,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/sphinxcontrib-1.0-py37_1",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/sphinxcontrib/__init__.py",
+    "lib/python3.7/site-packages/sphinxcontrib/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "sphinxcontrib-1.0-py37_1.conda",
+  "legacy_bz2_md5": "bc5a262aeac3ed5cfe98895320ce91cf",
+  "license": "BSD",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/sphinxcontrib-1.0-py37_1",
+    "type": 1
+  },
+  "md5": "006501680c2304b6d1c7b4203d42b74d",
+  "name": "sphinxcontrib",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/sphinxcontrib-1.0-py37_1",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/sphinxcontrib/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c36f344d7df392f3324bd07862ca187e70e2dd9a1f64f6d2c939d4b71b137250",
+        "sha256_in_prefix": "c36f344d7df392f3324bd07862ca187e70e2dd9a1f64f6d2c939d4b71b137250",
+        "size_in_bytes": 275
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sphinxcontrib/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "eaf2d68c9c1b05e258f45d8c41c1cdd03cdabc22bb7312b03d11760f6352693d",
+        "sha256_in_prefix": "eaf2d68c9c1b05e258f45d8c41c1cdd03cdabc22bb7312b03d11760f6352693d",
+        "size_in_bytes": 140
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "35bc5863f2427596bde73fe95bf51a4549ba0a8b9cfafeb890d4c03bf8775a8b",
+  "size": 4095,
+  "subdir": "osx-64",
+  "timestamp": 1530696389991,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/sphinxcontrib-1.0-py37_1.conda",
+  "version": "1.0"
+}

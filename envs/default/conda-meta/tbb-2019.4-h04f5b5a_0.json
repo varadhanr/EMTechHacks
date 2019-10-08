@@ -1,0 +1,66 @@
+{
+  "build": "h04f5b5a_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/tbb-2019.4-h04f5b5a_0",
+  "features": "",
+  "files": [
+    "lib/libtbb.dylib",
+    "lib/libtbbmalloc.dylib",
+    "lib/libtbbmalloc_proxy.dylib"
+  ],
+  "fn": "tbb-2019.4-h04f5b5a_0.conda",
+  "legacy_bz2_md5": "be2bb0fc80e9d394f1814ed1bad68dc1",
+  "license": "Apache 2.0",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/tbb-2019.4-h04f5b5a_0",
+    "type": 1
+  },
+  "md5": "52e29577b0c444cd5e97289e6bbea61d",
+  "name": "tbb",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/tbb-2019.4-h04f5b5a_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libtbb.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/5cc5a6db-010b-414e-4f1f-65cf46ced963/volume/tbb_1552512490555/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "fcff219ed97d41ad4b99d93e8f67932aa45b1a7852df04e1381c8d8a26d50bbf",
+        "sha256_in_prefix": "138df0b59b6d40cf891ce420b08bbff2a257847a8545cdfe5bbd2bcff4e90a6e",
+        "size_in_bytes": 378960
+      },
+      {
+        "_path": "lib/libtbbmalloc.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/5cc5a6db-010b-414e-4f1f-65cf46ced963/volume/tbb_1552512490555/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "25ac662a570038985689cbfee8d901032f6787bac5499462cf9a9523d61471ca",
+        "sha256_in_prefix": "987545df68cf28f15d78108b0a7cbc9440637e7f5bcf42f6fcd77c9f6d2e9a8a",
+        "size_in_bytes": 176548
+      },
+      {
+        "_path": "lib/libtbbmalloc_proxy.dylib",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/5cc5a6db-010b-414e-4f1f-65cf46ced963/volume/tbb_1552512490555/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "3b22557853d50305ba8c33dc55efcd9f15a6e18d48239f1dcc190dcad5050188",
+        "sha256_in_prefix": "06558a4724917b0a285079bfae08719fb0e750470ac9d66e5028a3250777ca96",
+        "size_in_bytes": 18344
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "12d4123871f28c528dc96060f433908f2279e0e654e69a90af9b3a8541828792",
+  "size": 150291,
+  "subdir": "osx-64",
+  "timestamp": 1552512824117,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/tbb-2019.4-h04f5b5a_0.conda",
+  "version": "2019.4"
+}

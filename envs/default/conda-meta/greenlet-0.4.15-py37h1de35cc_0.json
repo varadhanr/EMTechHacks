@@ -1,0 +1,95 @@
+{
+  "build": "py37h1de35cc_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/greenlet-0.4.15-py37h1de35cc_0",
+  "features": "",
+  "files": [
+    "include/python3.7m/greenlet/greenlet.h",
+    "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/METADATA",
+    "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/RECORD",
+    "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/WHEEL",
+    "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/greenlet.cpython-37m-darwin.so"
+  ],
+  "fn": "greenlet-0.4.15-py37h1de35cc_0.conda",
+  "legacy_bz2_md5": "49dd902ba2479be4b951fa95b3b5f07e",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/greenlet-0.4.15-py37h1de35cc_0",
+    "type": 1
+  },
+  "md5": "56bc59ad17b3445561b4f3161fab6f50",
+  "name": "greenlet",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/greenlet-0.4.15-py37h1de35cc_0",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "include/python3.7m/greenlet/greenlet.h",
+        "path_type": "hardlink",
+        "sha256": "4a5712daeb46a83263d4a9cc0caef8e728ad70928d5086c051a140f2b37ee2c6",
+        "sha256_in_prefix": "4a5712daeb46a83263d4a9cc0caef8e728ad70928d5086c051a140f2b37ee2c6",
+        "size_in_bytes": 3972
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "4007966b62b5f20421083b75143c5a26db39629259ec1f1ecf7c018a87949834",
+        "sha256_in_prefix": "4007966b62b5f20421083b75143c5a26db39629259ec1f1ecf7c018a87949834",
+        "size_in_bytes": 3304
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "da64e264e5500dcb43803c56d9c363b1fd5b72e328cda3e660a06b0f94b56e16",
+        "sha256_in_prefix": "da64e264e5500dcb43803c56d9c363b1fd5b72e328cda3e660a06b0f94b56e16",
+        "size_in_bytes": 594
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "fe4efe8e57289988b6296415f23e1d9d03f68619493efe916506bf03bbd20867",
+        "sha256_in_prefix": "fe4efe8e57289988b6296415f23e1d9d03f68619493efe916506bf03bbd20867",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet-0.4.15.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "6129d1b024683bad491a53f9ee8f2228beab74b5835ae8b2283f1e929594b037",
+        "sha256_in_prefix": "6129d1b024683bad491a53f9ee8f2228beab74b5835ae8b2283f1e929594b037",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "lib/python3.7/site-packages/greenlet.cpython-37m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/28fff70b-3a2c-4a76-4273-0f6978774cab/volume/greenlet_1536767901648/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "4c316cea30db8f7ee9b40a0e1dfb53479f224f6a73e7dbb922f3d3bfc5e8cf87",
+        "sha256_in_prefix": "d1e797178088cb2bf18c943b96f8ef1bd060b9d8a2ae9c971e384285739f7cb5",
+        "size_in_bytes": 26888
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "dd1defabd3eab08b75f9cb24785d704ec7b741610a031e34269848b9fb746bf2",
+  "size": 18026,
+  "subdir": "osx-64",
+  "timestamp": 1536768025536,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/greenlet-0.4.15-py37h1de35cc_0.conda",
+  "version": "0.4.15"
+}

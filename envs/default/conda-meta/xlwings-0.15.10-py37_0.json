@@ -1,0 +1,704 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "appscript >=1.0.1",
+    "psutil >=2.0",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/xlwings-0.15.10-py37_0",
+  "features": "",
+  "files": [
+    "bin/xlwings",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/entry_points.txt",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/requires.txt",
+    "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/top_level.txt",
+    "lib/python3.7/site-packages/xlwings/__init__.py",
+    "lib/python3.7/site-packages/xlwings/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/_xlmac.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/_xlwindows.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/command_line.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/constants.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/expansion.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/mac_dict.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/main.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/server.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/udfs.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/__pycache__/utils.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/_xlmac.py",
+    "lib/python3.7/site-packages/xlwings/_xlwindows.py",
+    "lib/python3.7/site-packages/xlwings/addin/xlwings.xlam",
+    "lib/python3.7/site-packages/xlwings/command_line.py",
+    "lib/python3.7/site-packages/xlwings/constants.py",
+    "lib/python3.7/site-packages/xlwings/conversion/__init__.py",
+    "lib/python3.7/site-packages/xlwings/conversion/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/conversion/__pycache__/framework.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/conversion/__pycache__/numpy_conv.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/conversion/__pycache__/pandas_conv.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/conversion/__pycache__/standard.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/conversion/framework.py",
+    "lib/python3.7/site-packages/xlwings/conversion/numpy_conv.py",
+    "lib/python3.7/site-packages/xlwings/conversion/pandas_conv.py",
+    "lib/python3.7/site-packages/xlwings/conversion/standard.py",
+    "lib/python3.7/site-packages/xlwings/expansion.py",
+    "lib/python3.7/site-packages/xlwings/ext/__init__.py",
+    "lib/python3.7/site-packages/xlwings/ext/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/ext/__pycache__/sql.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/ext/sql.py",
+    "lib/python3.7/site-packages/xlwings/mac_dict.py",
+    "lib/python3.7/site-packages/xlwings/main.py",
+    "lib/python3.7/site-packages/xlwings/quickstart.xlsm",
+    "lib/python3.7/site-packages/xlwings/quickstart_standalone_mac.xlsm",
+    "lib/python3.7/site-packages/xlwings/quickstart_standalone_win.xlsm",
+    "lib/python3.7/site-packages/xlwings/rest/__init__.py",
+    "lib/python3.7/site-packages/xlwings/rest/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/rest/__pycache__/api.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/rest/__pycache__/serializers.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/rest/api.py",
+    "lib/python3.7/site-packages/xlwings/rest/serializers.py",
+    "lib/python3.7/site-packages/xlwings/server.py",
+    "lib/python3.7/site-packages/xlwings/tests/__init__.py",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/common.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_active.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_app.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_book.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_conversion.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_names.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_range.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_shape.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_sheet.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/cell_errors.xlsx",
+    "lib/python3.7/site-packages/xlwings/tests/common.py",
+    "lib/python3.7/site-packages/xlwings/tests/macro book.xlsm",
+    "lib/python3.7/site-packages/xlwings/tests/restapi/__init__.py",
+    "lib/python3.7/site-packages/xlwings/tests/restapi/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/restapi/__pycache__/test_restapi.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlwings/tests/restapi/test_restapi.py",
+    "lib/python3.7/site-packages/xlwings/tests/sample_picture.png",
+    "lib/python3.7/site-packages/xlwings/tests/test book.xlsx",
+    "lib/python3.7/site-packages/xlwings/tests/test_active.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_app.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_book.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_conversion.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_names.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_range.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_shape.py",
+    "lib/python3.7/site-packages/xlwings/tests/test_sheet.py",
+    "lib/python3.7/site-packages/xlwings/udfs.py",
+    "lib/python3.7/site-packages/xlwings/utils.py",
+    "lib/python3.7/site-packages/xlwings/xlwings.applescript",
+    "lib/python3.7/site-packages/xlwings/xlwings.bas"
+  ],
+  "fn": "xlwings-0.15.10-py37_0.tar.bz2",
+  "license": "3-clause BSD",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/xlwings-0.15.10-py37_0",
+    "type": 1
+  },
+  "md5": "2ba6704a96bf0311ef18c0576e79e0c5",
+  "name": "xlwings",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/xlwings-0.15.10-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/xlwings",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "395f1e10d8bccd918327f54d5aaeec7d287fb94cfe11ca90c2f19be90f5d0141",
+        "sha256_in_prefix": "c9563a0733729b1f2fa685355e4c993fea5d815ed67eb6e960bd28e9f4907994",
+        "size_in_bytes": 250
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "adb603c0d949e2c8453ab108be0776a02b513129f2dc462a439afc95653b0e5f",
+        "sha256_in_prefix": "adb603c0d949e2c8453ab108be0776a02b513129f2dc462a439afc95653b0e5f",
+        "size_in_bytes": 2175
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "86d6080aeff74d2d431e174344d7157da855e7613769253695790ec868649a61",
+        "sha256_in_prefix": "86d6080aeff74d2d431e174344d7157da855e7613769253695790ec868649a61",
+        "size_in_bytes": 1424
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "d65c324d502d45151225d4205a2e78b215a487c1375a077dd57675aa77662077",
+        "sha256_in_prefix": "d65c324d502d45151225d4205a2e78b215a487c1375a077dd57675aa77662077",
+        "size_in_bytes": 55
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "7ca46eeb63ff3659b38feab40878616d5b97293e0e021e955a0371bb67dcf9e4",
+        "sha256_in_prefix": "7ca46eeb63ff3659b38feab40878616d5b97293e0e021e955a0371bb67dcf9e4",
+        "size_in_bytes": 31
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings-0.15.10-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "f393c1d834181036e79a12865bdb81b295906500e3233216a9dc38c8ba7bf00b",
+        "sha256_in_prefix": "f393c1d834181036e79a12865bdb81b295906500e3233216a9dc38c8ba7bf00b",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8819506a24bae30c0ccbecf254d04e0ffd971276ba0ebe318c56d55a11cfd477",
+        "sha256_in_prefix": "8819506a24bae30c0ccbecf254d04e0ffd971276ba0ebe318c56d55a11cfd477",
+        "size_in_bytes": 2764
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "3f028f2525e8022a98b9f9f469d547f345f94e3d318bdbf21d3d47a95612db2f",
+        "sha256_in_prefix": "3f028f2525e8022a98b9f9f469d547f345f94e3d318bdbf21d3d47a95612db2f",
+        "size_in_bytes": 3411
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/_xlmac.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "5bea3e76983986b69f284c8f0b52678f43a40491708e12cb49334e63965d0bbe",
+        "sha256_in_prefix": "5bea3e76983986b69f284c8f0b52678f43a40491708e12cb49334e63965d0bbe",
+        "size_in_bytes": 42395
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/_xlwindows.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "7b4a06421284d7ca6304ff3f11b373b73c24e42900637c94993c060a4c201c9f",
+        "sha256_in_prefix": "7b4a06421284d7ca6304ff3f11b373b73c24e42900637c94993c060a4c201c9f",
+        "size_in_bytes": 44181
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/command_line.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "41126ac12ee6bb34927cf7633383d18d9f812ce1c3c310da442cd944325b43e2",
+        "sha256_in_prefix": "41126ac12ee6bb34927cf7633383d18d9f812ce1c3c310da442cd944325b43e2",
+        "size_in_bytes": 5707
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/constants.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "556a2bb1dfa87965aec91b8a69bb5fdd1931dba26fca067b184d9526e27ca9e4",
+        "sha256_in_prefix": "556a2bb1dfa87965aec91b8a69bb5fdd1931dba26fca067b184d9526e27ca9e4",
+        "size_in_bytes": 100384
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/expansion.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ba3aa9c74a9228db7a4cbfa4988ae3d864b6b613789c9ea8bb776dccee906e30",
+        "sha256_in_prefix": "ba3aa9c74a9228db7a4cbfa4988ae3d864b6b613789c9ea8bb776dccee906e30",
+        "size_in_bytes": 2412
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/mac_dict.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2429a81cea73f16c58bc378909b62d9364ebb7ddb302147395ea3dd63a0007af",
+        "sha256_in_prefix": "2429a81cea73f16c58bc378909b62d9364ebb7ddb302147395ea3dd63a0007af",
+        "size_in_bytes": 204429
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/main.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b541d8eaa3d2dbf667fa8cae23cff664131f56d2fa8249bcf6be5e364142b34a",
+        "sha256_in_prefix": "b541d8eaa3d2dbf667fa8cae23cff664131f56d2fa8249bcf6be5e364142b34a",
+        "size_in_bytes": 84199
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/server.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "a3b2a97ff71bada88f1e6442666a3e22388cd48890a831f30b08344573c51768",
+        "sha256_in_prefix": "a3b2a97ff71bada88f1e6442666a3e22388cd48890a831f30b08344573c51768",
+        "size_in_bytes": 12108
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/udfs.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "cbf45ed1168125bd7c9eebd48c90d8e2cedd43d126c6fc9f32f2aacebd7bc6cf",
+        "sha256_in_prefix": "cbf45ed1168125bd7c9eebd48c90d8e2cedd43d126c6fc9f32f2aacebd7bc6cf",
+        "size_in_bytes": 13104
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/__pycache__/utils.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "89a960d6604c0c55811f3c8784108e4899f0104977271df2b652d5c75943e67f",
+        "sha256_in_prefix": "89a960d6604c0c55811f3c8784108e4899f0104977271df2b652d5c75943e67f",
+        "size_in_bytes": 7176
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/_xlmac.py",
+        "path_type": "hardlink",
+        "sha256": "7ed836edeea26ce751bc49185c5afd9e42d4f4ebcac9dbcea93d51225741661c",
+        "sha256_in_prefix": "7ed836edeea26ce751bc49185c5afd9e42d4f4ebcac9dbcea93d51225741661c",
+        "size_in_bytes": 38852
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/_xlwindows.py",
+        "path_type": "hardlink",
+        "sha256": "d8afd178fedc8e71cb6c2c8c3b878bcd0ba9867c5d4a31879a67468113a9b8bc",
+        "sha256_in_prefix": "d8afd178fedc8e71cb6c2c8c3b878bcd0ba9867c5d4a31879a67468113a9b8bc",
+        "size_in_bytes": 41749
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/addin/xlwings.xlam",
+        "path_type": "hardlink",
+        "sha256": "8fd503f1e46f8a4af645f81ed9dade6432e34e14498ad7a3785054a5f1efbca3",
+        "sha256_in_prefix": "8fd503f1e46f8a4af645f81ed9dade6432e34e14498ad7a3785054a5f1efbca3",
+        "size_in_bytes": 48788
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/command_line.py",
+        "path_type": "hardlink",
+        "sha256": "f1cfe103a80209ea9b99b8c0dcbde0d5afb8f643f9c412256ab9fc5ce4059df6",
+        "sha256_in_prefix": "f1cfe103a80209ea9b99b8c0dcbde0d5afb8f643f9c412256ab9fc5ce4059df6",
+        "size_in_bytes": 6874
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/constants.py",
+        "path_type": "hardlink",
+        "sha256": "900773c3d74096a5164e84194dd280eb29484d806eb8cd0c56713c7a48bed9b7",
+        "sha256_in_prefix": "900773c3d74096a5164e84194dd280eb29484d806eb8cd0c56713c7a48bed9b7",
+        "size_in_bytes": 128885
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "955afc5e73eeff7271332129ad71bf94cb1c9d560c65363e7da92805660c9a22",
+        "sha256_in_prefix": "955afc5e73eeff7271332129ad71bf94cb1c9d560c65363e7da92805660c9a22",
+        "size_in_bytes": 1805
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b284d9dd82c35d850fd0b48c008ec465496b42d9bac353baa8de6c02db295305",
+        "sha256_in_prefix": "b284d9dd82c35d850fd0b48c008ec465496b42d9bac353baa8de6c02db295305",
+        "size_in_bytes": 1679
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__pycache__/framework.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2acbedd1cd977f0b814d98225ff7f2f84defb22ebd8966c6e61afb558e251949",
+        "sha256_in_prefix": "2acbedd1cd977f0b814d98225ff7f2f84defb22ebd8966c6e61afb558e251949",
+        "size_in_bytes": 5468
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__pycache__/numpy_conv.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "36f7cd894a26db5736aa07cc45aee43f60338eafde7b2d9c446cecdb39493340",
+        "sha256_in_prefix": "36f7cd894a26db5736aa07cc45aee43f60338eafde7b2d9c446cecdb39493340",
+        "size_in_bytes": 1309
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__pycache__/pandas_conv.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "4d0e56d0ec045a92ffbb5dad4c8c39161ff7c5803d002c379057470de7ae5a62",
+        "sha256_in_prefix": "4d0e56d0ec045a92ffbb5dad4c8c39161ff7c5803d002c379057470de7ae5a62",
+        "size_in_bytes": 4046
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/__pycache__/standard.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f1657bfe222a2af4a5d34d2c12efde72986e764b993ac5ea82512f7a89102959",
+        "sha256_in_prefix": "f1657bfe222a2af4a5d34d2c12efde72986e764b993ac5ea82512f7a89102959",
+        "size_in_bytes": 9433
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/framework.py",
+        "path_type": "hardlink",
+        "sha256": "237566e8a33eec2a1506256b4772fce0f5b13ba1f0fc40c285724beb1d5edd87",
+        "sha256_in_prefix": "237566e8a33eec2a1506256b4772fce0f5b13ba1f0fc40c285724beb1d5edd87",
+        "size_in_bytes": 3738
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/numpy_conv.py",
+        "path_type": "hardlink",
+        "sha256": "bb64be1a8de4c25310b2124a03c298c0fdc231d5b1b8f2f8eded580f8cb1a075",
+        "sha256_in_prefix": "bb64be1a8de4c25310b2124a03c298c0fdc231d5b1b8f2f8eded580f8cb1a075",
+        "size_in_bytes": 1047
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/pandas_conv.py",
+        "path_type": "hardlink",
+        "sha256": "d71ac7a5e6f466396cba01bf27ff711c73a0b0564d7e8735208f58ccc94eb0c0",
+        "sha256_in_prefix": "d71ac7a5e6f466396cba01bf27ff711c73a0b0564d7e8735208f58ccc94eb0c0",
+        "size_in_bytes": 5677
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/conversion/standard.py",
+        "path_type": "hardlink",
+        "sha256": "3fec10b4dfd1ecc6c3ce061e292f090a8d08bef2c02b679afdfba1b8d5928233",
+        "sha256_in_prefix": "3fec10b4dfd1ecc6c3ce061e292f090a8d08bef2c02b679afdfba1b8d5928233",
+        "size_in_bytes": 6838
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/expansion.py",
+        "path_type": "hardlink",
+        "sha256": "b65f5ab457b204f98586d2aa044d89a2d4b3e46682f0ac8d10cbcad22a688dfd",
+        "sha256_in_prefix": "b65f5ab457b204f98586d2aa044d89a2d4b3e46682f0ac8d10cbcad22a688dfd",
+        "size_in_bytes": 2020
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/ext/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "6a6eac5423be3090e5464fbdad24cd6541261c52272b9c5b75398b0ed1dd8f35",
+        "sha256_in_prefix": "6a6eac5423be3090e5464fbdad24cd6541261c52272b9c5b75398b0ed1dd8f35",
+        "size_in_bytes": 33
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/ext/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f84f5a759e29c6628eb18ec7d4d4e9b37da88f65e9f963e416c59c4f23f0ae28",
+        "sha256_in_prefix": "f84f5a759e29c6628eb18ec7d4d4e9b37da88f65e9f963e416c59c4f23f0ae28",
+        "size_in_bytes": 186
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/ext/__pycache__/sql.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "13fa4c910ef45f173bf2687ed3e439c88f4c32e73c27123ed1f2993078101ca6",
+        "sha256_in_prefix": "13fa4c910ef45f173bf2687ed3e439c88f4c32e73c27123ed1f2993078101ca6",
+        "size_in_bytes": 2333
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/ext/sql.py",
+        "path_type": "hardlink",
+        "sha256": "ac7399e4405186f385a50d365ab88d80eeba4af8230b67e931e6151ded99f201",
+        "sha256_in_prefix": "ac7399e4405186f385a50d365ab88d80eeba4af8230b67e931e6151ded99f201",
+        "size_in_bytes": 1764
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/mac_dict.py",
+        "path_type": "hardlink",
+        "sha256": "8def37ecdcff08073d145b5e44baa9407f0c679bf7f6e944c1fb7316c0ffadbc",
+        "sha256_in_prefix": "8def37ecdcff08073d145b5e44baa9407f0c679bf7f6e944c1fb7316c0ffadbc",
+        "size_in_bytes": 233416
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/main.py",
+        "path_type": "hardlink",
+        "sha256": "8bd3f2d495d0b757edcd02be43ea9cb14ff1ffe6908b3b0717559d04a7565061",
+        "sha256_in_prefix": "8bd3f2d495d0b757edcd02be43ea9cb14ff1ffe6908b3b0717559d04a7565061",
+        "size_in_bytes": 78309
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/quickstart.xlsm",
+        "path_type": "hardlink",
+        "sha256": "6a3ff858053da5d901e7e8564ac904195336d2d56961dfe6084eee1aab65e414",
+        "sha256_in_prefix": "6a3ff858053da5d901e7e8564ac904195336d2d56961dfe6084eee1aab65e414",
+        "size_in_bytes": 14773
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/quickstart_standalone_mac.xlsm",
+        "path_type": "hardlink",
+        "sha256": "ea5617512f7707ce47238631f52c67fec6c05955d60096c1d0ed5baec756f743",
+        "sha256_in_prefix": "ea5617512f7707ce47238631f52c67fec6c05955d60096c1d0ed5baec756f743",
+        "size_in_bytes": 37916
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/quickstart_standalone_win.xlsm",
+        "path_type": "hardlink",
+        "sha256": "ec9fbd5efe3571e96d3bec3fbaaee0dad121df09887ccbc27237eab2b1042386",
+        "sha256_in_prefix": "ec9fbd5efe3571e96d3bec3fbaaee0dad121df09887ccbc27237eab2b1042386",
+        "size_in_bytes": 25591
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0e33721d49cb66b5c01cc836c3a4f011611de17248d25ef7d1ceea4c97576994",
+        "sha256_in_prefix": "0e33721d49cb66b5c01cc836c3a4f011611de17248d25ef7d1ceea4c97576994",
+        "size_in_bytes": 26
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ca66feb3b83d47b39a4d78376868a7273bea6b305deb8351d70f91c7a1ed89c6",
+        "sha256_in_prefix": "ca66feb3b83d47b39a4d78376868a7273bea6b305deb8351d70f91c7a1ed89c6",
+        "size_in_bytes": 179
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/__pycache__/api.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8b05e2fb85d4bcb903ed944c5192d1abc8ffecde48d86d7bb670a55c40274a9",
+        "sha256_in_prefix": "c8b05e2fb85d4bcb903ed944c5192d1abc8ffecde48d86d7bb670a55c40274a9",
+        "size_in_bytes": 11668
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/__pycache__/serializers.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "fccfe42736f9640ae6e3b062caa860414f161d3e38998ca40fc58dd3717157d4",
+        "sha256_in_prefix": "fccfe42736f9640ae6e3b062caa860414f161d3e38998ca40fc58dd3717157d4",
+        "size_in_bytes": 3118
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/api.py",
+        "path_type": "hardlink",
+        "sha256": "d261db123b83d9f023e30445e1859c04a59a2009df44ed1894c23c3d6e38267e",
+        "sha256_in_prefix": "d261db123b83d9f023e30445e1859c04a59a2009df44ed1894c23c3d6e38267e",
+        "size_in_bytes": 12173
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/rest/serializers.py",
+        "path_type": "hardlink",
+        "sha256": "bccf6eee2187acabdd01ff874b519f423c5fb4a2942987608916b38a866dba24",
+        "sha256_in_prefix": "bccf6eee2187acabdd01ff874b519f423c5fb4a2942987608916b38a866dba24",
+        "size_in_bytes": 2733
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/server.py",
+        "path_type": "hardlink",
+        "sha256": "6db580d624c9e344f2f18b3714df7f2e32063795bdd669f388fb3a21e573145d",
+        "sha256_in_prefix": "6db580d624c9e344f2f18b3714df7f2e32063795bdd669f388fb3a21e573145d",
+        "size_in_bytes": 11164
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "512c7e141ad195715d2198be805d4bef0354677da6f36d348f1b882956139330",
+        "sha256_in_prefix": "512c7e141ad195715d2198be805d4bef0354677da6f36d348f1b882956139330",
+        "size_in_bytes": 140
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/common.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d3447a421fa07e9690270d2cbffc08e32aa8e3b588df353601fcbeecbc368979",
+        "sha256_in_prefix": "d3447a421fa07e9690270d2cbffc08e32aa8e3b588df353601fcbeecbc368979",
+        "size_in_bytes": 1393
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_active.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "162205b5bd42a36c86845cbb34d9f4518a84aae7459dc272a24d08ba6ea4be8f",
+        "sha256_in_prefix": "162205b5bd42a36c86845cbb34d9f4518a84aae7459dc272a24d08ba6ea4be8f",
+        "size_in_bytes": 4070
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_app.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "64e0987d8fcc5d480522d0d07d279e3ece138a4b4a63fb50110bb16c61553fdc",
+        "sha256_in_prefix": "64e0987d8fcc5d480522d0d07d279e3ece138a4b4a63fb50110bb16c61553fdc",
+        "size_in_bytes": 5438
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_book.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "423f1acd3484f40affd9a5ee1e2a43be0c8a8473376385607ce2b1984da7e34a",
+        "sha256_in_prefix": "423f1acd3484f40affd9a5ee1e2a43be0c8a8473376385607ce2b1984da7e34a",
+        "size_in_bytes": 10335
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_conversion.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "5fbbd2f0ce2b0f9c92e0623ed568afb8fba20bb569cd0ae4319f59b26b9ae9d5",
+        "sha256_in_prefix": "5fbbd2f0ce2b0f9c92e0623ed568afb8fba20bb569cd0ae4319f59b26b9ae9d5",
+        "size_in_bytes": 20041
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_names.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9340cc76a9d3a811d14235c6ec18d72d0f999e3f4443af8b71072cb30035e72b",
+        "sha256_in_prefix": "9340cc76a9d3a811d14235c6ec18d72d0f999e3f4443af8b71072cb30035e72b",
+        "size_in_bytes": 5279
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_range.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0f29c689f5d8165c92b54b1ec55f0e294c5476cd8386c45dd707bc886e7d8401",
+        "sha256_in_prefix": "0f29c689f5d8165c92b54b1ec55f0e294c5476cd8386c45dd707bc886e7d8401",
+        "size_in_bytes": 31791
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_shape.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "26f2675ffa83abd28227e70f431b02deae3b11219a1848d21e68edf6c5683820",
+        "sha256_in_prefix": "26f2675ffa83abd28227e70f431b02deae3b11219a1848d21e68edf6c5683820",
+        "size_in_bytes": 10876
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/__pycache__/test_sheet.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "b63fe5c7f6c52ce7c963cff255e21b1ea84c1e19689fedd7bb9ec4d5b108755b",
+        "sha256_in_prefix": "b63fe5c7f6c52ce7c963cff255e21b1ea84c1e19689fedd7bb9ec4d5b108755b",
+        "size_in_bytes": 6589
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/cell_errors.xlsx",
+        "path_type": "hardlink",
+        "sha256": "f21c4fa306a20dc1f5e40c2706a6b36dcafd9309eaa4ad40ee08b43bf08503e0",
+        "sha256_in_prefix": "f21c4fa306a20dc1f5e40c2706a6b36dcafd9309eaa4ad40ee08b43bf08503e0",
+        "size_in_bytes": 9715
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/common.py",
+        "path_type": "hardlink",
+        "sha256": "661080b0a45ffc17d9c6f76ebac07d9678ee16c680eac346cca01e562762d0df",
+        "sha256_in_prefix": "661080b0a45ffc17d9c6f76ebac07d9678ee16c680eac346cca01e562762d0df",
+        "size_in_bytes": 1007
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/macro book.xlsm",
+        "path_type": "hardlink",
+        "sha256": "5ec59e4e82df479f1a3cda8565e477a2ac627492a82d5b384e781e2537b35115",
+        "sha256_in_prefix": "5ec59e4e82df479f1a3cda8565e477a2ac627492a82d5b384e781e2537b35115",
+        "size_in_bytes": 13279
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/restapi/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "34696231a75ddd8b6634e0db97f494360999689738d1a4e25286db3af51be35c",
+        "sha256_in_prefix": "34696231a75ddd8b6634e0db97f494360999689738d1a4e25286db3af51be35c",
+        "size_in_bytes": 1417
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/restapi/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "9f8a10469164462c4737ac72ed7c794733c540b391607c3c70e274aec9bad4ae",
+        "sha256_in_prefix": "9f8a10469164462c4737ac72ed7c794733c540b391607c3c70e274aec9bad4ae",
+        "size_in_bytes": 1559
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/restapi/__pycache__/test_restapi.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a50fa804a89c78eea73c235b348ed02ee5b38c2bf3717730aecd20465533ec8",
+        "sha256_in_prefix": "0a50fa804a89c78eea73c235b348ed02ee5b38c2bf3717730aecd20465533ec8",
+        "size_in_bytes": 9082
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/restapi/test_restapi.py",
+        "path_type": "hardlink",
+        "sha256": "0e9fa068369285065b1b0fd831d6325cc09d07770d47269a7a24297fc5f18e4d",
+        "sha256_in_prefix": "0e9fa068369285065b1b0fd831d6325cc09d07770d47269a7a24297fc5f18e4d",
+        "size_in_bytes": 8231
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/sample_picture.png",
+        "path_type": "hardlink",
+        "sha256": "190cb412f44f298ec2e40a89c7b19927e6fbfd01e9de0e43b74024a60916d45a",
+        "sha256_in_prefix": "190cb412f44f298ec2e40a89c7b19927e6fbfd01e9de0e43b74024a60916d45a",
+        "size_in_bytes": 3799
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test book.xlsx",
+        "path_type": "hardlink",
+        "sha256": "11e3e5daadcb8f73dcd455cdb7a18cac92cc5f10f9993ee9e7e1a6b9f994dfc2",
+        "sha256_in_prefix": "11e3e5daadcb8f73dcd455cdb7a18cac92cc5f10f9993ee9e7e1a6b9f994dfc2",
+        "size_in_bytes": 8340
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_active.py",
+        "path_type": "hardlink",
+        "sha256": "6c0601c9a50e6872ba751ad5b01538cea82496e724ea4d31500ab3a47dc81c8c",
+        "sha256_in_prefix": "6c0601c9a50e6872ba751ad5b01538cea82496e724ea4d31500ab3a47dc81c8c",
+        "size_in_bytes": 2609
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_app.py",
+        "path_type": "hardlink",
+        "sha256": "561844bbf9a5e3c64de35889e4f16c9a30440cd4b25cd1873b398db87b710ad9",
+        "sha256_in_prefix": "561844bbf9a5e3c64de35889e4f16c9a30440cd4b25cd1873b398db87b710ad9",
+        "size_in_bytes": 4527
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_book.py",
+        "path_type": "hardlink",
+        "sha256": "f35889aac8a437b1dd8733168ca28dbc32984a8929983fdd4664daba916b3011",
+        "sha256_in_prefix": "f35889aac8a437b1dd8733168ca28dbc32984a8929983fdd4664daba916b3011",
+        "size_in_bytes": 10082
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_conversion.py",
+        "path_type": "hardlink",
+        "sha256": "ac6687162187d71477d490f40d23cc9165c710a3c5b9a4087ddcea402b78fde4",
+        "sha256_in_prefix": "ac6687162187d71477d490f40d23cc9165c710a3c5b9a4087ddcea402b78fde4",
+        "size_in_bytes": 20812
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_names.py",
+        "path_type": "hardlink",
+        "sha256": "a23d225c7d81133f16e3d94740d0bc72f9e492a955d70f65de783579a1194582",
+        "sha256_in_prefix": "a23d225c7d81133f16e3d94740d0bc72f9e492a955d70f65de783579a1194582",
+        "size_in_bytes": 4434
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_range.py",
+        "path_type": "hardlink",
+        "sha256": "85a3f9e366ad76432d1426bf7eab4cbbc11ff51f9ce6eeaf81ec17e32f2db734",
+        "sha256_in_prefix": "85a3f9e366ad76432d1426bf7eab4cbbc11ff51f9ce6eeaf81ec17e32f2db734",
+        "size_in_bytes": 25512
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_shape.py",
+        "path_type": "hardlink",
+        "sha256": "3ffddcc90dc5fc2360fbc5a6841a2006ad0a2af25429b560f461bae8c96df6d6",
+        "sha256_in_prefix": "3ffddcc90dc5fc2360fbc5a6841a2006ad0a2af25429b560f461bae8c96df6d6",
+        "size_in_bytes": 9294
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/tests/test_sheet.py",
+        "path_type": "hardlink",
+        "sha256": "a37473d27fc6ad7866224927d17fb30f0dc026f9153d2769ae64299c32fb2afb",
+        "sha256_in_prefix": "a37473d27fc6ad7866224927d17fb30f0dc026f9153d2769ae64299c32fb2afb",
+        "size_in_bytes": 5158
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/udfs.py",
+        "path_type": "hardlink",
+        "sha256": "219b0fecaa5821120900ccea19148bfcd9c89f7c07aa75b0b7547da627ab33ac",
+        "sha256_in_prefix": "219b0fecaa5821120900ccea19148bfcd9c89f7c07aa75b0b7547da627ab33ac",
+        "size_in_bytes": 18656
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/utils.py",
+        "path_type": "hardlink",
+        "sha256": "db7e9f77192974410dda480abc5a71f6e3579f76b6e632b81cb0dab1a5d8f3ee",
+        "sha256_in_prefix": "db7e9f77192974410dda480abc5a71f6e3579f76b6e632b81cb0dab1a5d8f3ee",
+        "size_in_bytes": 6065
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/xlwings.applescript",
+        "path_type": "hardlink",
+        "sha256": "eebfce663dd618bd66c75384d99efff8aa8858ead06973aaee2fe81a23c97c98",
+        "sha256_in_prefix": "eebfce663dd618bd66c75384d99efff8aa8858ead06973aaee2fe81a23c97c98",
+        "size_in_bytes": 1256
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlwings/xlwings.bas",
+        "path_type": "hardlink",
+        "sha256": "02c600808ab7984f5e5d05bac68a281d09c21911a954cb6cf0d69ece37f55a20",
+        "sha256_in_prefix": "02c600808ab7984f5e5d05bac68a281d09c21911a954cb6cf0d69ece37f55a20",
+        "size_in_bytes": 35118
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ec375b7e92cd4a7770369d88258e603a846789950f51d747909f947ef44ddc5b",
+  "size": 473255,
+  "subdir": "osx-64",
+  "timestamp": 1569268435298,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/xlwings-0.15.10-py37_0.tar.bz2",
+  "version": "0.15.10"
+}

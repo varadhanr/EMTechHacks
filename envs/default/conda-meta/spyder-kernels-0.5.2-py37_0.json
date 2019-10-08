@@ -1,0 +1,337 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "cloudpickle",
+    "ipykernel >4.9.0",
+    "jupyter_client >=5.2.3",
+    "python >=3.7,<3.8.0a0",
+    "pyzmq >=17",
+    "wurlitzer"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/spyder-kernels-0.5.2-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/AUTHORS.txt",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/METADATA",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/RECORD",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/WHEEL",
+    "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/spyder_kernels/__init__.py",
+    "lib/python3.7/site-packages/spyder_kernels/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/__pycache__/_version.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/__pycache__/py3compat.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/_version.py",
+    "lib/python3.7/site-packages/spyder_kernels/console/__init__.py",
+    "lib/python3.7/site-packages/spyder_kernels/console/__main__.py",
+    "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/__main__.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/kernel.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/start.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/console/kernel.py",
+    "lib/python3.7/site-packages/spyder_kernels/console/start.py",
+    "lib/python3.7/site-packages/spyder_kernels/customize/__init__.py",
+    "lib/python3.7/site-packages/spyder_kernels/customize/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/customize/__pycache__/spydercustomize.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/customize/spydercustomize.py",
+    "lib/python3.7/site-packages/spyder_kernels/py3compat.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__init__.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/dochelpers.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/iofuncs.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/misc.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/nsview.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/test_utils.cpython-37.pyc",
+    "lib/python3.7/site-packages/spyder_kernels/utils/dochelpers.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/iofuncs.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/misc.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/nsview.py",
+    "lib/python3.7/site-packages/spyder_kernels/utils/test_utils.py"
+  ],
+  "fn": "spyder-kernels-0.5.2-py37_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/spyder-kernels-0.5.2-py37_0",
+    "type": 1
+  },
+  "md5": "fdf975a82bdf4bb8bdf92d6a278907aa",
+  "name": "spyder-kernels",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/spyder-kernels-0.5.2-py37_0.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/AUTHORS.txt",
+        "path_type": "hardlink",
+        "sha256": "ed23d1741757bee8280483878e15f12f142bcbf6c6c733f09b967fa0e1ef1c34",
+        "sha256_in_prefix": "ed23d1741757bee8280483878e15f12f142bcbf6c6c733f09b967fa0e1ef1c34",
+        "size_in_bytes": 891
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "a99c6590106c546eb83fd0c63edd6641905cc4ca7ff80c27e8200ee78ace80cb",
+        "sha256_in_prefix": "a99c6590106c546eb83fd0c63edd6641905cc4ca7ff80c27e8200ee78ace80cb",
+        "size_in_bytes": 1103
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d4d292494a9a97083320ecb8957936440fae73afe3c6deb1284eec3b07bb864e",
+        "sha256_in_prefix": "d4d292494a9a97083320ecb8957936440fae73afe3c6deb1284eec3b07bb864e",
+        "size_in_bytes": 3321
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1c0920b07596f2c1f62fed4c171d11526d71d4919bcdaa28e1b3be1a58247b9e",
+        "sha256_in_prefix": "1c0920b07596f2c1f62fed4c171d11526d71d4919bcdaa28e1b3be1a58247b9e",
+        "size_in_bytes": 2872
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels-0.5.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "8a0cb3e0853284bdeb5ae0fd0a3e41938a3182545cfb9d5dc58c787f9846058d",
+        "sha256_in_prefix": "8a0cb3e0853284bdeb5ae0fd0a3e41938a3182545cfb9d5dc58c787f9846058d",
+        "size_in_bytes": 15
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e8497489adf1fb8921742ed742c2fa1b2c5f46033694bc4f2128749759fb99ad",
+        "sha256_in_prefix": "e8497489adf1fb8921742ed742c2fa1b2c5f46033694bc4f2128749759fb99ad",
+        "size_in_bytes": 1476
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ee252e4aa4c8382c29f37d070944b517f6cd7850bbeb82b3d6e732dc241797a0",
+        "sha256_in_prefix": "ee252e4aa4c8382c29f37d070944b517f6cd7850bbeb82b3d6e732dc241797a0",
+        "size_in_bytes": 1309
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/__pycache__/_version.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "06256d5284ad182968d893a92aad546f8aa355889e1f751a84e0e67f46a2c508",
+        "sha256_in_prefix": "06256d5284ad182968d893a92aad546f8aa355889e1f751a84e0e67f46a2c508",
+        "size_in_bytes": 253
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/__pycache__/py3compat.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "dbae0d7ffaa9e9823e1cab06f48265c6bfa401878b778a9e7550010b3d8fd02d",
+        "sha256_in_prefix": "dbae0d7ffaa9e9823e1cab06f48265c6bfa401878b778a9e7550010b3d8fd02d",
+        "size_in_bytes": 5902
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/_version.py",
+        "path_type": "hardlink",
+        "sha256": "8bf8573b67fe218f4d8c6c7c845b6dac2dc4adc7002d819222b8b923f2c5a0e3",
+        "sha256_in_prefix": "8bf8573b67fe218f4d8c6c7c845b6dac2dc4adc7002d819222b8b923f2c5a0e3",
+        "size_in_bytes": 401
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0818ea51939659213e06b6b4c629189c037ac977ea420fb011b4c4ef560cd5be",
+        "sha256_in_prefix": "0818ea51939659213e06b6b4c629189c037ac977ea420fb011b4c4ef560cd5be",
+        "size_in_bytes": 353
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "892a68ff2266795506c8549dfccc215aec539d120a23aa77346d4e9942ff7a7c",
+        "sha256_in_prefix": "892a68ff2266795506c8549dfccc215aec539d120a23aa77346d4e9942ff7a7c",
+        "size_in_bytes": 419
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "fd817ee7b5e058ab3a6add44641888752a136ac4f6f2e0dc3801fdf2d6be5b56",
+        "sha256_in_prefix": "fd817ee7b5e058ab3a6add44641888752a136ac4f6f2e0dc3801fdf2d6be5b56",
+        "size_in_bytes": 177
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/__main__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "94eb252fc96bc9d91f35a197cba970c7f590dbcb76d86d708f7d38da8eb0b86a",
+        "sha256_in_prefix": "94eb252fc96bc9d91f35a197cba970c7f590dbcb76d86d708f7d38da8eb0b86a",
+        "size_in_bytes": 247
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/kernel.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "fc89924cc7d4f210fc47e45e51b1fc0a5a4eda8c31fe1390805f5c953c9b0359",
+        "sha256_in_prefix": "fc89924cc7d4f210fc47e45e51b1fc0a5a4eda8c31fe1390805f5c953c9b0359",
+        "size_in_bytes": 14256
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/__pycache__/start.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "801c5365fda4945f24a8d32eef2b8a7f893f6bc8cddadefdb6cc2be7f0661d0d",
+        "sha256_in_prefix": "801c5365fda4945f24a8d32eef2b8a7f893f6bc8cddadefdb6cc2be7f0661d0d",
+        "size_in_bytes": 5753
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/kernel.py",
+        "path_type": "hardlink",
+        "sha256": "acb70d2a723f2b812482dd5b93e5be3c041a2bb7285ff42342977887d0289732",
+        "sha256_in_prefix": "acb70d2a723f2b812482dd5b93e5be3c041a2bb7285ff42342977887d0289732",
+        "size_in_bytes": 16986
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/console/start.py",
+        "path_type": "hardlink",
+        "sha256": "dcf0c5feb2a042ed645242da7ba4c757572d6cf2f16987a192dd3c4f0f90872e",
+        "sha256_in_prefix": "dcf0c5feb2a042ed645242da7ba4c757572d6cf2f16987a192dd3c4f0f90872e",
+        "size_in_bytes": 10275
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/customize/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "72afcd9f38909a632e943755996ea77abe45fbadd260b034608d5d74d0299624",
+        "sha256_in_prefix": "72afcd9f38909a632e943755996ea77abe45fbadd260b034608d5d74d0299624",
+        "size_in_bytes": 511
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/customize/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "8b21ab66b1c4b59073e036678be1f9655b566b8bfde684ff10c40f287ed78527",
+        "sha256_in_prefix": "8b21ab66b1c4b59073e036678be1f9655b566b8bfde684ff10c40f287ed78527",
+        "size_in_bytes": 337
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/customize/__pycache__/spydercustomize.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "f9a38e986d8cdcc1966a532077c1592dd10b99a8f8d63dfe62a7f7bfd967bb2e",
+        "sha256_in_prefix": "f9a38e986d8cdcc1966a532077c1592dd10b99a8f8d63dfe62a7f7bfd967bb2e",
+        "size_in_bytes": 17313
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/customize/spydercustomize.py",
+        "path_type": "hardlink",
+        "sha256": "e199ff6c1dc2e48257174984a0fb1def728e8633aba0e5c3665a84c3a66ee8d7",
+        "sha256_in_prefix": "e199ff6c1dc2e48257174984a0fb1def728e8633aba0e5c3665a84c3a66ee8d7",
+        "size_in_bytes": 30008
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/py3compat.py",
+        "path_type": "hardlink",
+        "sha256": "94c01041bb0ad7ffd47c417a1f7045be292dc0329a68e0c73a7d965f3e333c78",
+        "sha256_in_prefix": "94c01041bb0ad7ffd47c417a1f7045be292dc0329a68e0c73a7d965f3e333c78",
+        "size_in_bytes": 7640
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "977f0adecea7e5db59b2dbc45ab20428985c8b219073ab8bd3726f48a84867d8",
+        "sha256_in_prefix": "977f0adecea7e5db59b2dbc45ab20428985c8b219073ab8bd3726f48a84867d8",
+        "size_in_bytes": 348
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "92a78a5a523227302f5b9cfa2154f435b5305f7a7f76bc8319e4d178e4106d3f",
+        "sha256_in_prefix": "92a78a5a523227302f5b9cfa2154f435b5305f7a7f76bc8319e4d178e4106d3f",
+        "size_in_bytes": 170
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/dochelpers.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "99e0901e4ff6bcde448df3536ec076dc06971ef33a1803818ed2c6faf7b75ac1",
+        "sha256_in_prefix": "99e0901e4ff6bcde448df3536ec076dc06971ef33a1803818ed2c6faf7b75ac1",
+        "size_in_bytes": 8061
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/iofuncs.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "04fc6cf8150bc096100343cbc93ac109d1cb50bc4748e97dd0d94c0931355834",
+        "sha256_in_prefix": "04fc6cf8150bc096100343cbc93ac109d1cb50bc4748e97dd0d94c0931355834",
+        "size_in_bytes": 13035
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/misc.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "d4043c8718a0c0c8f5b87ea598dd548f97da3dcbd8ac00fe9386cceed6a9fa6c",
+        "sha256_in_prefix": "d4043c8718a0c0c8f5b87ea598dd548f97da3dcbd8ac00fe9386cceed6a9fa6c",
+        "size_in_bytes": 826
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/nsview.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "60c0a0d157c8f1401f1e4e620c30bf8ed4699566474f13288e0e7cb61bb9a229",
+        "sha256_in_prefix": "60c0a0d157c8f1401f1e4e620c30bf8ed4699566474f13288e0e7cb61bb9a229",
+        "size_in_bytes": 14851
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/__pycache__/test_utils.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "ded1690fd8f4cd6afdfc2eb45d6632bf49d5dcd982eadb87848f257a24753b10",
+        "sha256_in_prefix": "ded1690fd8f4cd6afdfc2eb45d6632bf49d5dcd982eadb87848f257a24753b10",
+        "size_in_bytes": 1157
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/dochelpers.py",
+        "path_type": "hardlink",
+        "sha256": "121d1ba79ad2db3c4929a5e2686d02a1395cf88ab5fe505c5467b5bc9b9544d8",
+        "sha256_in_prefix": "121d1ba79ad2db3c4929a5e2686d02a1395cf88ab5fe505c5467b5bc9b9544d8",
+        "size_in_bytes": 12151
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/iofuncs.py",
+        "path_type": "hardlink",
+        "sha256": "74677af2840155587975b23b903b7bdb8fd70f7e47a71ef84d1177a5c85d36da",
+        "sha256_in_prefix": "74677af2840155587975b23b903b7bdb8fd70f7e47a71ef84d1177a5c85d36da",
+        "size_in_bytes": 19241
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/misc.py",
+        "path_type": "hardlink",
+        "sha256": "01d5f6063e4d23fbd1663b8e606a0c411de481a417d838e4f2b16bc96d53e957",
+        "sha256_in_prefix": "01d5f6063e4d23fbd1663b8e606a0c411de481a417d838e4f2b16bc96d53e957",
+        "size_in_bytes": 1024
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/nsview.py",
+        "path_type": "hardlink",
+        "sha256": "9721f1e6c3b12ba887c58311dd59eacc9e9d6a123bdcb080a59259e81463d1f5",
+        "sha256_in_prefix": "9721f1e6c3b12ba887c58311dd59eacc9e9d6a123bdcb080a59259e81463d1f5",
+        "size_in_bytes": 24004
+      },
+      {
+        "_path": "lib/python3.7/site-packages/spyder_kernels/utils/test_utils.py",
+        "path_type": "hardlink",
+        "sha256": "5e1d2cd40427e0b80147f79c8d7abef2064a4368c442e343a0736b73148c1c8d",
+        "sha256_in_prefix": "5e1d2cd40427e0b80147f79c8d7abef2064a4368c442e343a0736b73148c1c8d",
+        "size_in_bytes": 1425
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "3a5de965f48b056c573b1191b3c8b5eaa096ab5b340c2a0f4854353302431fe6",
+  "size": 70767,
+  "subdir": "osx-64",
+  "timestamp": 1569378113824,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/spyder-kernels-0.5.2-py37_0.tar.bz2",
+  "version": "0.5.2"
+}

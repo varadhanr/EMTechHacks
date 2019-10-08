@@ -1,0 +1,105 @@
+{
+  "build": "py37h1413db1_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "libcxx >=4.0.1",
+    "liblief 0.9.0 h2a1bed3_2",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/py-lief-0.9.0-py37h1413db1_2",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/_pylief.cpython-37m-darwin.so",
+    "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/PKG-INFO",
+    "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/SOURCES.txt",
+    "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/dependency_links.txt",
+    "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/not-zip-safe",
+    "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/top_level.txt",
+    "lib/python3.7/site-packages/lief/__init__.py",
+    "lib/python3.7/site-packages/lief/__pycache__/__init__.cpython-37.pyc"
+  ],
+  "fn": "py-lief-0.9.0-py37h1413db1_2.conda",
+  "legacy_bz2_md5": "66844e3b93955250c90de12c5b6bac0f",
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/py-lief-0.9.0-py37h1413db1_2",
+    "type": 1
+  },
+  "md5": "38f86f589bfec02eb10013d71ec4db9a",
+  "name": "py-lief",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/py-lief-0.9.0-py37h1413db1_2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/_pylief.cpython-37m-darwin.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/concourse/worker/volumes/live/b40c9466-dafc-488b-4ae7-8f0452498149/volume/lief-suite_1547591704717/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
+        "sha256": "f28ab6f7f3ccbd8bc5ce3e5c9dda9ad8255dfba8010fadc9216946dae303d877",
+        "sha256_in_prefix": "4e674f5eb909765ebdc5c788a4d6fd2390d599e5ca7eaae052266d010d3e666f",
+        "size_in_bytes": 10042688
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "5dc764b7336c53f4d47ab4f4ee07e69e8c61d9307bdb35c53230b4653166fe74",
+        "sha256_in_prefix": "5dc764b7336c53f4d47ab4f4ee07e69e8c61d9307bdb35c53230b4653166fe74",
+        "size_in_bytes": 1023
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "bcc750bb5fba706896660da9ff808b1b5a7a80e6944be6c0f1127f4c52f1adcc",
+        "sha256_in_prefix": "bcc750bb5fba706896660da9ff808b1b5a7a80e6944be6c0f1127f4c52f1adcc",
+        "size_in_bytes": 193
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief-0.9.0-py3.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "7652bcaf7d121666e1a7f7b214a19dda3cf9d4f16ada223fcd6213d4eba1bd5c",
+        "sha256_in_prefix": "7652bcaf7d121666e1a7f7b214a19dda3cf9d4f16ada223fcd6213d4eba1bd5c",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "8db02476b692a13d2c6a550bf493d083db0fc31b69343e98749e68faf8a24100",
+        "sha256_in_prefix": "8db02476b692a13d2c6a550bf493d083db0fc31b69343e98749e68faf8a24100",
+        "size_in_bytes": 715
+      },
+      {
+        "_path": "lib/python3.7/site-packages/lief/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "56dbf0c86d66ee9ca0aa6b314e84cc3acd4fc137258ac211412000a6d540b252",
+        "sha256_in_prefix": "56dbf0c86d66ee9ca0aa6b314e84cc3acd4fc137258ac211412000a6d540b252",
+        "size_in_bytes": 584
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "bc5a0c2ec48d96aa1c49ae1ec639dfb44a85d9f4c1e089e6c812af67a9f1f843",
+  "size": 1243092,
+  "subdir": "osx-64",
+  "timestamp": 1547594685007,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/py-lief-0.9.0-py37h1413db1_2.conda",
+  "version": "0.9.0"
+}

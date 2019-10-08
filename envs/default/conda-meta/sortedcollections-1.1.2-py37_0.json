@@ -1,0 +1,134 @@
+{
+  "build": "py37_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.7,<3.8.0a0",
+    "sortedcontainers >=2.0"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/sortedcollections-1.1.2-py37_0",
+  "features": "",
+  "files": [
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/LICENSE",
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/METADATA",
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/RECORD",
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/WHEEL",
+    "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/sortedcollections/__init__.py",
+    "lib/python3.7/site-packages/sortedcollections/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/sortedcollections/__pycache__/ordereddict.cpython-37.pyc",
+    "lib/python3.7/site-packages/sortedcollections/__pycache__/recipes.cpython-37.pyc",
+    "lib/python3.7/site-packages/sortedcollections/ordereddict.py",
+    "lib/python3.7/site-packages/sortedcollections/recipes.py"
+  ],
+  "fn": "sortedcollections-1.1.2-py37_0.conda",
+  "legacy_bz2_md5": "9f745d4a78e9fdc90df3b8b22deedbbe",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/sortedcollections-1.1.2-py37_0",
+    "type": 1
+  },
+  "md5": "ddc2df0be33a09f7d1481ea88b9dcd0c",
+  "name": "sortedcollections",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/sortedcollections-1.1.2-py37_0",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "eb8178fd2d080e56088eb0c7ab43079ceca7105ccbc2843220ee895f4ca4836b",
+        "sha256_in_prefix": "eb8178fd2d080e56088eb0c7ab43079ceca7105ccbc2843220ee895f4ca4836b",
+        "size_in_bytes": 557
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "484ee1dbcb1ea4cc5917192568820c34b4e948ca404219d2d17bcd11be7f049f",
+        "sha256_in_prefix": "484ee1dbcb1ea4cc5917192568820c34b4e948ca404219d2d17bcd11be7f049f",
+        "size_in_bytes": 4811
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "eaf63b4f8b5bd3f466cd78e94cec644df19cea7dd303ddc90ee2cd6eb11d59d4",
+        "sha256_in_prefix": "eaf63b4f8b5bd3f466cd78e94cec644df19cea7dd303ddc90ee2cd6eb11d59d4",
+        "size_in_bytes": 974
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "1817faef8e5327c3d44957f4d0b4d0b3fc3e3ac5330fd59cefde6d149b74194b",
+        "sha256_in_prefix": "1817faef8e5327c3d44957f4d0b4d0b3fc3e3ac5330fd59cefde6d149b74194b",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections-1.1.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "edb9fc8d56a96ae486411243d44e52be105e7f25a7d9aa374d17271687f73c62",
+        "sha256_in_prefix": "edb9fc8d56a96ae486411243d44e52be105e7f25a7d9aa374d17271687f73c62",
+        "size_in_bytes": 18
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f276ad27579f73ae625f0d8c6a4bbecf26e18ea0ec18a478cfdfd2f33fdd9c37",
+        "sha256_in_prefix": "f276ad27579f73ae625f0d8c6a4bbecf26e18ea0ec18a478cfdfd2f33fdd9c37",
+        "size_in_bytes": 662
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "7ef39a80f4d5ca2580a8cc37b7c26a86bb199f1d864aa9217bf27a4311df6650",
+        "sha256_in_prefix": "7ef39a80f4d5ca2580a8cc37b7c26a86bb199f1d864aa9217bf27a4311df6650",
+        "size_in_bytes": 918
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/__pycache__/ordereddict.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "693405c6b00e479a9e81d5ea14fd970b4f3c07496e640260d6557f495544b4c6",
+        "sha256_in_prefix": "693405c6b00e479a9e81d5ea14fd970b4f3c07496e640260d6557f495544b4c6",
+        "size_in_bytes": 7601
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/__pycache__/recipes.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "657d439f3875ba6586af36a3130721e892f143e470fb82e843eb6445be13114a",
+        "sha256_in_prefix": "657d439f3875ba6586af36a3130721e892f143e470fb82e843eb6445be13114a",
+        "size_in_bytes": 12257
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/ordereddict.py",
+        "path_type": "hardlink",
+        "sha256": "1dec52430df20e4bb98f097f3c2ee378a556f360b4a9d5a2539b8b01b67c05c9",
+        "sha256_in_prefix": "1dec52430df20e4bb98f097f3c2ee378a556f360b4a9d5a2539b8b01b67c05c9",
+        "size_in_bytes": 6574
+      },
+      {
+        "_path": "lib/python3.7/site-packages/sortedcollections/recipes.py",
+        "path_type": "hardlink",
+        "sha256": "671e8712458b32a7171454f447886ddb462435e234a302bc2e8c2affe2856b9e",
+        "sha256_in_prefix": "671e8712458b32a7171454f447886ddb462435e234a302bc2e8c2affe2856b9e",
+        "size_in_bytes": 10397
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "44e670e5bb8af799519c85a2b0840878356d0f66032d70f2521be2039b0130af",
+  "size": 18399,
+  "subdir": "osx-64",
+  "timestamp": 1547909657620,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/sortedcollections-1.1.2-py37_0.conda",
+  "version": "1.1.2"
+}

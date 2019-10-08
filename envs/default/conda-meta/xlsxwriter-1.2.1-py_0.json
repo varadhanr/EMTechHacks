@@ -1,0 +1,525 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "/Users/varadhan/Desktop/anaconda3/pkgs/xlsxwriter-1.2.1-py_0",
+  "features": "",
+  "files": [
+    "bin/vba_extract.py",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/LICENSE.txt",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/METADATA",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/RECORD",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/WHEEL",
+    "lib/python3.7/site-packages/XlsxWriter-1.2.1.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/xlsxwriter/__init__.py",
+    "lib/python3.7/site-packages/xlsxwriter/app.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_area.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_bar.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_column.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_doughnut.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_line.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_pie.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_radar.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_scatter.py",
+    "lib/python3.7/site-packages/xlsxwriter/chart_stock.py",
+    "lib/python3.7/site-packages/xlsxwriter/chartsheet.py",
+    "lib/python3.7/site-packages/xlsxwriter/comments.py",
+    "lib/python3.7/site-packages/xlsxwriter/compatibility.py",
+    "lib/python3.7/site-packages/xlsxwriter/contenttypes.py",
+    "lib/python3.7/site-packages/xlsxwriter/core.py",
+    "lib/python3.7/site-packages/xlsxwriter/custom.py",
+    "lib/python3.7/site-packages/xlsxwriter/drawing.py",
+    "lib/python3.7/site-packages/xlsxwriter/exceptions.py",
+    "lib/python3.7/site-packages/xlsxwriter/format.py",
+    "lib/python3.7/site-packages/xlsxwriter/packager.py",
+    "lib/python3.7/site-packages/xlsxwriter/relationships.py",
+    "lib/python3.7/site-packages/xlsxwriter/shape.py",
+    "lib/python3.7/site-packages/xlsxwriter/sharedstrings.py",
+    "lib/python3.7/site-packages/xlsxwriter/styles.py",
+    "lib/python3.7/site-packages/xlsxwriter/table.py",
+    "lib/python3.7/site-packages/xlsxwriter/theme.py",
+    "lib/python3.7/site-packages/xlsxwriter/utility.py",
+    "lib/python3.7/site-packages/xlsxwriter/vml.py",
+    "lib/python3.7/site-packages/xlsxwriter/workbook.py",
+    "lib/python3.7/site-packages/xlsxwriter/worksheet.py",
+    "lib/python3.7/site-packages/xlsxwriter/xmlwriter.py",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/app.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_area.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_bar.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_column.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_doughnut.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_line.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_pie.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_radar.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_scatter.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_stock.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/chartsheet.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/comments.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/compatibility.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/contenttypes.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/core.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/custom.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/drawing.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/exceptions.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/format.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/packager.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/relationships.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/shape.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/sharedstrings.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/styles.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/table.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/theme.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/utility.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/vml.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/workbook.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/worksheet.cpython-37.pyc",
+    "lib/python3.7/site-packages/xlsxwriter/__pycache__/xmlwriter.cpython-37.pyc"
+  ],
+  "fn": "xlsxwriter-1.2.1-py_0.tar.bz2",
+  "license": "BSD 2-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "/Users/varadhan/Desktop/anaconda3/pkgs/xlsxwriter-1.2.1-py_0",
+    "type": 1
+  },
+  "md5": "e7ad4e270255555bf4e1edd111b59831",
+  "name": "xlsxwriter",
+  "noarch": "python",
+  "package_tarball_full_path": "/Users/varadhan/Desktop/anaconda3/pkgs/xlsxwriter-1.2.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "python-scripts/vba_extract.py",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "271fd99630a6cad3ab6dc0580b95c2ebe8fb540dba7e347099ee7eafc22e14c5",
+        "sha256_in_prefix": "062ddb462314dc611a881d3361d95e3896542363803135e6c0c0913a78d2a04f",
+        "size_in_bytes": 1840
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "777cb44c00ba1c2905686fa32f2ca3ba17422b96fc229be3d8f0f1333bc4ecfe",
+        "sha256_in_prefix": "777cb44c00ba1c2905686fa32f2ca3ba17422b96fc229be3d8f0f1333bc4ecfe",
+        "size_in_bytes": 1533
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "34bbbd49bab30922c62ee7e51408f0f63ff785ec6d093f27b8056feb53d21abe",
+        "sha256_in_prefix": "34bbbd49bab30922c62ee7e51408f0f63ff785ec6d093f27b8056feb53d21abe",
+        "size_in_bytes": 2453
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "1f3ee45d6b0152ae7f11cc357730f52b3b19241eb030a2a01fec38ee2b2246e5",
+        "sha256_in_prefix": "1f3ee45d6b0152ae7f11cc357730f52b3b19241eb030a2a01fec38ee2b2246e5",
+        "size_in_bytes": 4195
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "sha256_in_prefix": "87f6959f9381d8811152331b8b6a6e72647fcf3589b64df4dd85ef861eb4349f",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/XlsxWriter-1.2.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "c45114729718ed0cc0afffb3b645de6c4b751590b1a6e09b9b20ac05a7af8519",
+        "sha256_in_prefix": "c45114729718ed0cc0afffb3b645de6c4b751590b1a6e09b9b20ac05a7af8519",
+        "size_in_bytes": 11
+      },
+      {
+        "_path": "site-packages/xlsxwriter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "90f9c3daa42ab4ca0036ffff536bac1b37cb0d8d19b46f41cf5887f35dbc1787",
+        "sha256_in_prefix": "90f9c3daa42ab4ca0036ffff536bac1b37cb0d8d19b46f41cf5887f35dbc1787",
+        "size_in_bytes": 79
+      },
+      {
+        "_path": "site-packages/xlsxwriter/app.py",
+        "path_type": "hardlink",
+        "sha256": "d3de0e5746f3eaae3f5bcdbb87405c421d81852eb9c0c6ca06f5c1397f49aa80",
+        "sha256_in_prefix": "d3de0e5746f3eaae3f5bcdbb87405c421d81852eb9c0c6ca06f5c1397f49aa80",
+        "size_in_bytes": 5739
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart.py",
+        "path_type": "hardlink",
+        "sha256": "9ca160ea3ec97161bbbc8bafc5116666c64b01cf72002b77eeeb1c5fb993bf85",
+        "sha256_in_prefix": "9ca160ea3ec97161bbbc8bafc5116666c64b01cf72002b77eeeb1c5fb993bf85",
+        "size_in_bytes": 119915
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_area.py",
+        "path_type": "hardlink",
+        "sha256": "60fc981e1fb05d8f06536c7c98964ed6bc77dbe80d453f82900b57219dd7977a",
+        "sha256_in_prefix": "60fc981e1fb05d8f06536c7c98964ed6bc77dbe80d453f82900b57219dd7977a",
+        "size_in_bytes": 2636
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_bar.py",
+        "path_type": "hardlink",
+        "sha256": "58335b145befe39df97f04985366dcbd21db17bf23bf2c4e65fc9bb50eade1e3",
+        "sha256_in_prefix": "58335b145befe39df97f04985366dcbd21db17bf23bf2c4e65fc9bb50eade1e3",
+        "size_in_bytes": 4794
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_column.py",
+        "path_type": "hardlink",
+        "sha256": "1954e12cfb72dcec756845cbbe11dc592ba77e31d8dd001dea7c76ff8db6288a",
+        "sha256_in_prefix": "1954e12cfb72dcec756845cbbe11dc592ba77e31d8dd001dea7c76ff8db6288a",
+        "size_in_bytes": 3545
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_doughnut.py",
+        "path_type": "hardlink",
+        "sha256": "209b848e9240ca354fd80892aa34d4a5d23d0be0cbe311c8985f246dfacddf31",
+        "sha256_in_prefix": "209b848e9240ca354fd80892aa34d4a5d23d0be0cbe311c8985f246dfacddf31",
+        "size_in_bytes": 2667
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_line.py",
+        "path_type": "hardlink",
+        "sha256": "66c7a8486e673cdd86b3a1504d4dc9669ee942a4a6dda592111395bd58c5eef3",
+        "sha256_in_prefix": "66c7a8486e673cdd86b3a1504d4dc9669ee942a4a6dda592111395bd58c5eef3",
+        "size_in_bytes": 3241
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_pie.py",
+        "path_type": "hardlink",
+        "sha256": "b8926a582c6caa20de98a8fa585a7010dfc3a4f711cbfb72540e3697ec252b7a",
+        "sha256_in_prefix": "b8926a582c6caa20de98a8fa585a7010dfc3a4f711cbfb72540e3697ec252b7a",
+        "size_in_bytes": 7015
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_radar.py",
+        "path_type": "hardlink",
+        "sha256": "4f04596f86f49e9b20d920304a72cf17b1aec7ec50db41e1df5ee7f81eeedbc4",
+        "sha256_in_prefix": "4f04596f86f49e9b20d920304a72cf17b1aec7ec50db41e1df5ee7f81eeedbc4",
+        "size_in_bytes": 2699
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_scatter.py",
+        "path_type": "hardlink",
+        "sha256": "f34031e54e6dd95a39429231f5461b1aa8c9a40f383faed76b950921a29b3f5d",
+        "sha256_in_prefix": "f34031e54e6dd95a39429231f5461b1aa8c9a40f383faed76b950921a29b3f5d",
+        "size_in_bytes": 9614
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chart_stock.py",
+        "path_type": "hardlink",
+        "sha256": "6f4f0dfd63bec753c83b53558167091dac83409ea5421e7c0e4a7cf6c1ef205e",
+        "sha256_in_prefix": "6f4f0dfd63bec753c83b53558167091dac83409ea5421e7c0e4a7cf6c1ef205e",
+        "size_in_bytes": 3550
+      },
+      {
+        "_path": "site-packages/xlsxwriter/chartsheet.py",
+        "path_type": "hardlink",
+        "sha256": "e033844019690df10b721c2ffb6326a6afc6b9c23a199f4da39e83668aa4548b",
+        "sha256_in_prefix": "e033844019690df10b721c2ffb6326a6afc6b9c23a199f4da39e83668aa4548b",
+        "size_in_bytes": 5562
+      },
+      {
+        "_path": "site-packages/xlsxwriter/comments.py",
+        "path_type": "hardlink",
+        "sha256": "7b94311edf74a9afde05479dd573dc622cb8ae03619896d8b46993e48b6e7d68",
+        "sha256_in_prefix": "7b94311edf74a9afde05479dd573dc622cb8ae03619896d8b46993e48b6e7d68",
+        "size_in_bytes": 5553
+      },
+      {
+        "_path": "site-packages/xlsxwriter/compatibility.py",
+        "path_type": "hardlink",
+        "sha256": "5ced3685ee92a420618275aac00a1ea0ae99bd7093080b4eeaa6e17bea2a9fd0",
+        "sha256_in_prefix": "5ced3685ee92a420618275aac00a1ea0ae99bd7093080b4eeaa6e17bea2a9fd0",
+        "size_in_bytes": 880
+      },
+      {
+        "_path": "site-packages/xlsxwriter/contenttypes.py",
+        "path_type": "hardlink",
+        "sha256": "268cf256f5c4a01ac2a09e45d567dff3085f3eb742d5df646ecc2de43a04c482",
+        "sha256_in_prefix": "268cf256f5c4a01ac2a09e45d567dff3085f3eb742d5df646ecc2de43a04c482",
+        "size_in_bytes": 7095
+      },
+      {
+        "_path": "site-packages/xlsxwriter/core.py",
+        "path_type": "hardlink",
+        "sha256": "85bbd46334e5f4923749772fba23dad39522fd205ccd5054c991319f87eb95d5",
+        "sha256_in_prefix": "85bbd46334e5f4923749772fba23dad39522fd205ccd5054c991319f87eb95d5",
+        "size_in_bytes": 5466
+      },
+      {
+        "_path": "site-packages/xlsxwriter/custom.py",
+        "path_type": "hardlink",
+        "sha256": "b1f2b75533560212e849add96f491ca57b2000f63c84d895e7630e1beee3981d",
+        "sha256_in_prefix": "b1f2b75533560212e849add96f491ca57b2000f63c84d895e7630e1beee3981d",
+        "size_in_bytes": 3789
+      },
+      {
+        "_path": "site-packages/xlsxwriter/drawing.py",
+        "path_type": "hardlink",
+        "sha256": "391bc988b6db043b3d6283bac0b265ed29aa73bcecab3b79d0bb79e5f5dfbb6e",
+        "sha256_in_prefix": "391bc988b6db043b3d6283bac0b265ed29aa73bcecab3b79d0bb79e5f5dfbb6e",
+        "size_in_bytes": 31719
+      },
+      {
+        "_path": "site-packages/xlsxwriter/exceptions.py",
+        "path_type": "hardlink",
+        "sha256": "f134d3f2f8c60e8a5234f2e01767f2955a410406d3bd6d31b75fd9df89b9ded4",
+        "sha256_in_prefix": "f134d3f2f8c60e8a5234f2e01767f2955a410406d3bd6d31b75fd9df89b9ded4",
+        "size_in_bytes": 1350
+      },
+      {
+        "_path": "site-packages/xlsxwriter/format.py",
+        "path_type": "hardlink",
+        "sha256": "7be6a6cbeb691aa713382f7815cb7e09539bb99a29a3c8e52a90337125a759b0",
+        "sha256_in_prefix": "7be6a6cbeb691aa713382f7815cb7e09539bb99a29a3c8e52a90337125a759b0",
+        "size_in_bytes": 26229
+      },
+      {
+        "_path": "site-packages/xlsxwriter/packager.py",
+        "path_type": "hardlink",
+        "sha256": "2cfde130d5cefda99c63d218b60a462f48bbc088ccd58272d7e087ae11eca2bc",
+        "sha256_in_prefix": "2cfde130d5cefda99c63d218b60a462f48bbc088ccd58272d7e087ae11eca2bc",
+        "size_in_bytes": 23312
+      },
+      {
+        "_path": "site-packages/xlsxwriter/relationships.py",
+        "path_type": "hardlink",
+        "sha256": "87d805c6f0dff7b5601ff9299ee89c27a77a7f48036d0d704b27d154ce02d60b",
+        "sha256_in_prefix": "87d805c6f0dff7b5601ff9299ee89c27a77a7f48036d0d704b27d154ce02d60b",
+        "size_in_bytes": 3422
+      },
+      {
+        "_path": "site-packages/xlsxwriter/shape.py",
+        "path_type": "hardlink",
+        "sha256": "c4c75189f91f7ec37cc4efe1745ae86fcb99cfa54ee9296cc54670007f7ddbf3",
+        "sha256_in_prefix": "c4c75189f91f7ec37cc4efe1745ae86fcb99cfa54ee9296cc54670007f7ddbf3",
+        "size_in_bytes": 12723
+      },
+      {
+        "_path": "site-packages/xlsxwriter/sharedstrings.py",
+        "path_type": "hardlink",
+        "sha256": "6fd2d30ba680a605731f85b7afba011488701f9b59b691501dc742506319fb73",
+        "sha256_in_prefix": "6fd2d30ba680a605731f85b7afba011488701f9b59b691501dc742506319fb73",
+        "size_in_bytes": 4926
+      },
+      {
+        "_path": "site-packages/xlsxwriter/styles.py",
+        "path_type": "hardlink",
+        "sha256": "e5302634518999d29d108e4503f7d04e1f221ef5ee6405e6da6ade1ef3e280b0",
+        "sha256_in_prefix": "e5302634518999d29d108e4503f7d04e1f221ef5ee6405e6da6ade1ef3e280b0",
+        "size_in_bytes": 22347
+      },
+      {
+        "_path": "site-packages/xlsxwriter/table.py",
+        "path_type": "hardlink",
+        "sha256": "3705f9191389fd040a96901f3cd7a987c2ad4d9b072880543cf25d22bbfede33",
+        "sha256_in_prefix": "3705f9191389fd040a96901f3cd7a987c2ad4d9b072880543cf25d22bbfede33",
+        "size_in_bytes": 5221
+      },
+      {
+        "_path": "site-packages/xlsxwriter/theme.py",
+        "path_type": "hardlink",
+        "sha256": "8bb8fe01fbacafbd6c1c31b0724cf59fa0a6c39ca32af3da19eee635ceafb3d0",
+        "sha256_in_prefix": "8bb8fe01fbacafbd6c1c31b0724cf59fa0a6c39ca32af3da19eee635ceafb3d0",
+        "size_in_bytes": 9011
+      },
+      {
+        "_path": "site-packages/xlsxwriter/utility.py",
+        "path_type": "hardlink",
+        "sha256": "4076ff295e83ed3091d575d26e9a03b9d577caae934cc8c90344bd4cb475831d",
+        "sha256_in_prefix": "4076ff295e83ed3091d575d26e9a03b9d577caae934cc8c90344bd4cb475831d",
+        "size_in_bytes": 25893
+      },
+      {
+        "_path": "site-packages/xlsxwriter/vml.py",
+        "path_type": "hardlink",
+        "sha256": "9a34697a10ccaf45b28d3efd38ce38afbcb0384cb9a2c3ee2006b3ecd1c16262",
+        "sha256_in_prefix": "9a34697a10ccaf45b28d3efd38ce38afbcb0384cb9a2c3ee2006b3ecd1c16262",
+        "size_in_bytes": 19365
+      },
+      {
+        "_path": "site-packages/xlsxwriter/workbook.py",
+        "path_type": "hardlink",
+        "sha256": "73df766ec7f908069ef97408c92059303a8fbb4680e50fdff137bc6ab173d242",
+        "sha256_in_prefix": "73df766ec7f908069ef97408c92059303a8fbb4680e50fdff137bc6ab173d242",
+        "size_in_bytes": 60448
+      },
+      {
+        "_path": "site-packages/xlsxwriter/worksheet.py",
+        "path_type": "hardlink",
+        "sha256": "fa67a607299f176f9100bb9b70ee73c157081cd5bb6cb9b71b2b3d33b01323e2",
+        "sha256_in_prefix": "fa67a607299f176f9100bb9b70ee73c157081cd5bb6cb9b71b2b3d33b01323e2",
+        "size_in_bytes": 244849
+      },
+      {
+        "_path": "site-packages/xlsxwriter/xmlwriter.py",
+        "path_type": "hardlink",
+        "sha256": "625ace4c3501ee60c9d5804df8323ec69bae331fe29d8d6fe0683a9809364bac",
+        "sha256_in_prefix": "625ace4c3501ee60c9d5804df8323ec69bae331fe29d8d6fe0683a9809364bac",
+        "size_in_bytes": 6912
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/app.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_area.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_bar.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_column.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_doughnut.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_line.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_pie.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_radar.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_scatter.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chart_stock.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/chartsheet.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/comments.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/compatibility.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/contenttypes.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/core.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/custom.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/drawing.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/exceptions.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/format.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/packager.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/relationships.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/shape.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/sharedstrings.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/styles.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/table.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/theme.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/utility.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/vml.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/workbook.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/worksheet.cpython-37.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "lib/python3.7/site-packages/xlsxwriter/__pycache__/xmlwriter.cpython-37.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "69353917147f9702b06cafeee81d684d17adb33fec5225578873b7bdec11f8e5",
+  "size": 108632,
+  "subdir": "noarch",
+  "timestamp": 1569267020264,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/xlsxwriter-1.2.1-py_0.tar.bz2",
+  "version": "1.2.1"
+}
